@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const Path = require('path')
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
@@ -61,6 +62,15 @@ module.exports = function(eleventyConfig) {
     }
     return minified.code;
   });
+
+  // Support relative paths
+  eleventyConfig.addFilter("relative", function (url) {
+    return Path.join(
+      './',
+      this.ctx.page.url.split('/').reduce((a, b) => a + (b && '../')),
+      url
+    )
+  })
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {

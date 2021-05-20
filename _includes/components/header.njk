@@ -1,0 +1,60 @@
+<header>
+    <div class="banner">
+        <div class="left">
+            <div class="info">
+                <i class="fa fa-users"></i> Family owned and operated
+            </div>
+            <div class="info">
+                <i class="fa fa-clock"></i> Available 24/7
+            </div>
+             <div class="info">
+                <i class="fa fa-calendar-day"></i> Same day service
+            </div>
+        </div>
+        <div class="right">
+            <a class="email" href="mailto:info@thegreatconstruction.com">
+                <i class="fa fa-envelope"></i> info@thegreatconstruction.com
+            </a>
+            {% include "components/social.njk" %}
+        </div>
+    </div>
+    <div class="navigation">
+        <img src="{{logos.main_logo | relative}}" alt="Logo" class="logo">
+        {% include "components/nav.njk" %}
+        <button class="gradient-btn"><i class="fa fa-arrow-right"></i> Free estimate</button>
+    </div>
+    <div class="benefits">
+        <div class="benefit">
+            <div class="icon">
+                <i class="fa fa-id-badge"></i>
+            </div>
+            <div class="desc">
+                <div class="upper">Fully licensed</div>
+                <div class="lower">License #: 13VH11323800</div>
+            </div>
+        </div>
+        <div class="benefit">
+            <div class="icon">
+                <i class="fa fa-phone"></i>
+            </div>
+            <div class="desc">
+                <a class="upper" href="tel:+1 (929) 536-4386">+1 (929) 536-4386</a>
+                <div class="lower">Call us or a free estimate</div>
+            </div>
+        </div>
+        <div class="benefit">
+            <div class="icon">
+                <i class="fa fa-credit-card"></i>
+            </div>
+            <div class="desc">
+                <div class="upper">We accept</div>
+                <div class="lower">
+                    <i class="fab fa-cc-visa"></i>
+                    <i class="fab fa-cc-mastercard"></i>
+                    <i class="fab fa-cc-amex"></i>
+                    <i class="fab fa-cc-paypal"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

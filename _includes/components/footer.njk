@@ -1,6 +1,44 @@
 <footer>
-  <small>
-    This project is maintained by <a href="https://www.danurbanowicz.com">Dan Urbanowicz</a>.
-    Check out the <a href="{{ pkg.repository.url }}">GitHub repo</a>.
-  </small>
+  <div class="columns">
+    {% set pages = menus %}
+    <div class="column">
+      <img src="{{logos.footer_logo | relative}}" />
+      <p>A family owned and operated business, proudly serving its customers with integrity and attention to details.</p>
+      {% include "components/social.njk" %}
+    </div>
+    <div class="column links">
+      <h2>Our services</h2>
+      {% for page in pages %}
+        {% if page.children %}
+          {% for service in page.children %}
+            <a href="{{service.route | url}}">{{ service.name }}</a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="column links">
+      <h2>Quick links</h2>
+      {% for page in pages %}
+        <a href="{{page.route | url}}">{{ page.name }}</a>
+      {% endfor %}
+    </div>
+    <div class="column">
+      <h2>Get in touch</h2>
+        <div class="contact-info">
+          <i class="fa fa-map-marker-alt"></i>
+          520 Cliff St, Unit 409, Fairview, NJ 07022
+        </div>
+        <div class="contact-info">
+          <i class="fa fa-phone"></i>
+          <a href="tel: +19295364386">+1 (929) 536-4386</a>
+        </div>
+        <div class="contact-info">
+          <i class="fa fa-envelope"></i>
+          <a href="mailto: info@thegreatconstruction.com">info@thegreatconstruction.com</a>
+        </div>
+    </div>
+  </div>
+  <div class="copyright">
+    &copy; 2021 - present: The Great Construction Company
+  </div>
 </footer>

@@ -1,0 +1,58 @@
+[
+    {
+        "name":"Home", 
+        "route": "/",
+        "children": null
+    },
+    {
+        "name":"About", 
+        "route": "/about/",
+        "children": null
+    },
+    {
+        "name":"Work", 
+        "route": "/work/",
+        "children": null
+    },
+    {
+        "name":"Services", 
+        "route": "/services/",
+        "children": [
+            {
+                "name":"Roofing", 
+                "route": "/services/roofing/",
+                "children": null
+            },
+            {
+                "name":"Flat roof", 
+                "route": "/services/flat-roof/",
+                "children": null
+            },
+            {
+                "name":"Chimney", 
+                "route": "/services/chimney/",
+                "children": null
+            },
+            {
+                "name":"Gutters", 
+                "route": "/services/gutters/",
+                "children": null
+            },
+            {
+                "name":"Siding", 
+                "route": "/services/siding/",
+                "children": null
+            },
+            {
+                "name":"Masonry", 
+                "route": "/services/masonry/",
+                "children": null
+            }
+        ]
+    },
+    {
+        "name":"Contact", 
+        "route": "/contact/",
+        "children": null
+    }
+]

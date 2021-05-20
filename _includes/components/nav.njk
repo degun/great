@@ -1,10 +1,17 @@
 <nav>
-  {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
+  {% set navPages = menus %}
   {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
-    </li>
+    {% if entry.children %}
+      <div class="with-submenu">
+        <a href="{{ entry.route | url }}"{% if entry.route == page.url %} class="current"{% endif %}>{{ entry.name }}</a>
+        <div class="submenu">
+          {% for child in entry.children %}
+            <a href="{{ child.route | url }}"{% if child.route == page.url %} class="current"{% endif %}>{{ child.name }}</a>
+          {% endfor %}
+        </div>
+      </div>
+    {% else %}
+      <a href="{{ entry.route | url }}"{% if entry.route == page.url %} class="current" {% endif %}>{{ entry.name }}</a>
+    {% endif %}
   {%- endfor %}
-  </ul>
 </nav>
