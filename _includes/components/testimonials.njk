@@ -2,7 +2,8 @@
     <h6>What makes us truly great?</h6>
     <h3>Clients always say <br /><strong>the truth about us!</strong></h3>
     {% set testimonials = collections.testimonial %}
-    {% for t in testimonials %}
+    {% for testimonial in testimonials %}
+    {% set t = testimonial.data %}
     <div class="card">
         <p>{{t.description}}</p>
         <div class="name">{{t.name}}</div>
