@@ -21,32 +21,38 @@
             {
                 "name":"Roofing", 
                 "route": "/services/roofing/",
-                "children": null
+                "icon": "/_includes/assets/images/icons/roofing.png",
+                "description": "Roof installation, Roof Repair, Skylight Replacement, Skylight Repair, Emergency Roof Repair"
             },
             {
                 "name":"Flat roof", 
                 "route": "/services/flat-roof/",
-                "children": null
+                "icon": "/_includes/assets/images/icons/flat-roof.png",
+                "description": "Flat Roofing Installation, Flat Roofing Repair, Rubber Roofing, Torch Down Roofing, Roof Coating"
             },
             {
                 "name":"Chimney", 
                 "route": "/services/chimney/",
-                "children": null
+                "icon": "/_includes/assets/images/icons/chimney.png",
+                "description": "Chimney Inspection, Chimney Repair, Chimney Cleaning, Masonry Chimney Repair, Metal Chimney Repair"
             },
             {
                 "name":"Gutters", 
                 "route": "/services/gutters/",
-                "children": null
+                "icon": "/_includes/assets/images/icons/gutters.png",
+                "description": "Gutter Installation, Gutter Repair, Gutter Cleaning, Downspout Installation, Downspout Replacement"
             },
             {
                 "name":"Siding", 
                 "route": "/services/siding/",
-                "children": null
+                "icon": "/_includes/assets/images/icons/siding.png",
+                "description": "Siding Installation, Siding Repair, Fascia Repair, Soffit Repair, Stuco Siding, Vinyl Siding"
             },
             {
                 "name":"Masonry", 
                 "route": "/services/masonry/",
-                "children": null
+                "icon": "/_includes/assets/images/icons/masonry.png",
+                "description": "Masonry Repair, Stonework, Brickwork, Cement Work, Sidewalk Repair, Walkway Repair, Retaining Wall Repair"
             }
         ]
     },

@@ -98,6 +98,7 @@ header .navigation nav a.with-submenu{
 header .navigation nav .with-submenu:hover .submenu{
 	max-height: 500px;
 	transform: translateX(-15px) translateY(20px);
+	z-index: 2;
 }
 
 header .navigation nav .submenu {

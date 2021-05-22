@@ -8,9 +8,21 @@ permalink: /
     <div class="overlay"></div>
     <div class="content">
         <h3>We do it the right way</h3>
-        <h1></h1>
+        <h1>Great services at an <a href="/contact/">affordable price</a></h1>
         <button class="gradient-btn">
             <i class="fa fa-arrow-right"></i> Let's start here with a free estimate
         </button>
     </div>
+</div>
+<div class="services">
+    {% for service in menus[3].children %}
+        <a href="{{service.route}}">
+            <img src="{{service.icon}}" alt="{{servie.name}} icon" />
+            <h3>{{service.name}}</h3>
+            <p>{{service.description}}</p>
+        </a>
+    {% endfor %}
+</div>
+<div class="testimonials-contact">
+    {% include "components/testimonials.njk" %}
 </div>

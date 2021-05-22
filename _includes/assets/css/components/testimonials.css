@@ -1,0 +1,38 @@
+.testimonials-contact .testimonials {
+    width: 50%;
+}
+
+.testimonials-contact .testimonials h6 {
+    font-size: 1rem;
+    font-weight: normal;
+    margin-bottom: 0;
+    color: var(--secondary-medium);
+}
+
+.testimonials-contact .testimonials h3 {
+    font-size: 2rem;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.testimonials-contact .testimonials .card {
+    width: 500px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    padding: 40px;
+}
+
+.testimonials-contact .testimonials .card p {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.testimonials-contact .testimonials .card .location {
+    color: #999;
+    font-size: 0.8rem;
+    margin-bottom: 16px;
+}
+
+.testimonials-contact .testimonials .card .rating i{
+    color: #FADB15;
+}
