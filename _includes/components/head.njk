@@ -8,7 +8,11 @@
   {# <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js" integrity="sha512-cdV6j5t5o24hkSciVrb8Ki6FveC2SgwGfLE31+ZQRHAeSRxYhAQskLkq3dLm8ZcWe1N3vBOEYmmbhzf7NTtFFQ==" crossorigin="anonymous"></script> #}
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
-    {% include "assets/css/inline.css" %}
+    {% include "assets/css/layouts/base.css" %}
+    {% include "assets/css/common.css" %}
+    {% include "assets/css/layouts/home.css" %}
+    {% include "assets/css/components/header.css" %}
+    {% include "assets/css/components/footer.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}

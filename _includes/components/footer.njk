@@ -8,13 +8,9 @@
     </div>
     <div class="column links">
       <h2>Our services</h2>
-      {% for page in pages %}
-        {% if page.children %}
-          {% for service in page.children %}
-            <a href="{{service.route | url}}">{{ service.name }}</a>
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
+        {% for service in pages[3].children %}
+          <a href="{{service.route | url}}">{{ service.name }}</a>
+        {% endfor %}
     </div>
     <div class="column links">
       <h2>Quick links</h2>
