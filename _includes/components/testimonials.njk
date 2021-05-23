@@ -2,11 +2,11 @@
     <h6>What makes us truly great?</h6>
     <h3>Clients always say <br /><strong>the truth about us!</strong></h3>
     <div class="card">
-        <amp-carousel lightbox amp-fx="fade-in" layout='responsive' width='600' height='400' type='slides'>
+        <amp-carousel height="300" layout="fixed-height" type="slides" role="region" aria-label="Carousel with arbitrary HTML content">
         {% set testimonials = collections.testimonial %}
         {% for testimonial in testimonials %}
         {% set t = testimonial.data %}
-            <amp-sidebar class="single">
+            <div class="single">
                 <h3>{{t.service}}</h3>
                 <p>{{t.description}}</p>
                 <div class="name">{{t.name}}</div>
@@ -26,7 +26,7 @@
                         <i class="far fa-star"></i>
                     {% endfor %}
                 </div>
-            </amp-sidebar>
+            </div>
         {% endfor %}
         </amp-carousel>
     </div>
