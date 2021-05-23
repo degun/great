@@ -2,30 +2,32 @@
     <h6>What makes us truly great?</h6>
     <h3>Clients always say <br /><strong>the truth about us!</strong></h3>
     <div class="card">
+        <amp-carousel lightbox amp-fx="fade-in" layout='responsive' width='600' height='400' type='slides'>
         {% set testimonials = collections.testimonial %}
         {% for testimonial in testimonials %}
         {% set t = testimonial.data %}
-        <div class="single">
-            <h3>{{t.service}}</h3>
-            <p>{{t.description}}</p>
-            <div class="name">{{t.name}}</div>
-            <div class="location">{{t.location}}</div>
-            <div class="rating">
-                {% set rating = t.rating %}
-                {% set whole = rating - rating%1 %}
-                {% set half = 1 if rating%1 else 0 %}
-                {% set emptied = 5 - whole - half %}
-                {% for i in range(0, whole) %}
-                    <i class="fas fa-star"></i>
-                {% endfor %}
-                {% if half == 1 %}
-                    <i class="fas fa-star-half-alt"></i>
-                {% endif %}
-                {% for i in range(0, emptied) %}
-                    <i class="far fa-star"></i>
-                {% endfor %}
-            </div>
-        </div>
+            <amp-sidebar class="single">
+                <h3>{{t.service}}</h3>
+                <p>{{t.description}}</p>
+                <div class="name">{{t.name}}</div>
+                <div class="location">{{t.location}}</div>
+                <div class="rating">
+                    {% set rating = t.rating %}
+                    {% set whole = rating - rating%1 %}
+                    {% set half = 1 if rating%1 else 0 %}
+                    {% set emptied = 5 - whole - half %}
+                    {% for i in range(0, whole) %}
+                        <i class="fas fa-star"></i>
+                    {% endfor %}
+                    {% if half == 1 %}
+                        <i class="fas fa-star-half-alt"></i>
+                    {% endif %}
+                    {% for i in range(0, emptied) %}
+                        <i class="far fa-star"></i>
+                    {% endfor %}
+                </div>
+            </amp-sidebar>
         {% endfor %}
+        </amp-carousel>
     </div>
 </div>
