@@ -1,49 +1,46 @@
+
 .testimonials {
-    width: 50%;
-}
-
- .testimonials h6 {
-   font-size: 1rem;
-    font-weight: normal;
-    margin-bottom: 0;
-    color: var(--secondary-medium);
-}
-
- .testimonials h3 {
-    font-size: 2rem;
-    font-weight: normal;
-    margin-top: 0;
-}
- .testimonials .card {
     width: 500px;
     box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
     border-radius: 4px;
     height: 350px;
 }
 
- .testimonials .card .single {
+.testimonials amp-carousel .amp-carousel-button {
+    background-color: var(--primary);
+    border-radius: 50%;
+    opacity: 0.5;
+    transition: 0.2s opacity ease-in-out;
+}
+
+.testimonials amp-carousel .amp-carousel-button:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.testimonials .single {
     background-color: white;
     padding: 40px;
 }
 
- .testimonials .card .single h3 {
+ .testimonials .single h3 {
     font-size: 1.3rem;
     color: #333;
     font-weight: bold;
     margin-bottom: 0;
 }
 
- .testimonials .card .single p {
+ .testimonials .single p {
     font-size: 0.9rem;
     color: #666;
 }
 
- .testimonials .card .single .location {
+ .testimonials .single .location {
     color: #999;
     font-size: 0.8rem;
     margin-bottom: 16px;
 }
 
- .testimonials .card .single .rating i{
+ .testimonials .single .rating i{
     color: #FADB15;
 }

@@ -91,3 +91,39 @@
     display: flex;
     padding: 60px calc((100% - 1220px)/2);
 }
+
+.testimonials-contact .testimonials-section {
+    width: 50%;
+}
+
+.testimonials-contact .testimonials-section h6 {
+   font-size: 1rem;
+    font-weight: normal;
+    margin-bottom: 0;
+    color: var(--secondary-medium);
+}
+
+.testimonials-contact .testimonials-section h3 {
+    font-size: 2rem;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 64px;
+}
+
+.testimonials-contact .contact-section {
+    width: 50%;
+    padding: 60px;
+    background-color: var(--secondary-medium);
+}
+
+.testimonials-contact .contact-section h3 {
+    font-size: 1.7rem;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.testimonials-contact .contact-section p {
+    color: white;
+    width: 80%;
+}

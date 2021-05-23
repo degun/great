@@ -24,6 +24,14 @@ permalink: /
     {% endfor %}
 </div>
 <div class="testimonials-contact">
-    {% include "components/testimonials.njk" %}
-    {% include "components/form.njk" %}
+    <div class="testimonials-section">
+        <h6>What makes us truly great?</h6>
+        <h3>Clients always say <br /><strong>the truth about us!</strong></h3>
+        {% include "components/testimonials.njk" %}
+    </div>
+    <div class="contact-section">
+        <h3>Got a project in mind? <br /><strong>Get a free estimate!</strong></h3>
+        <p>Send us as many details as possible, so our estimate can be more accurate.</p>
+        {% include "components/form.njk" %}
+    </div>
 </div>
