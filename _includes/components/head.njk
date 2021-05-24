@@ -5,6 +5,8 @@
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -16,6 +18,8 @@
     {% include "assets/css/components/testimonials.css" %}
     {% include "assets/css/components/form.css" %}
     {% include "assets/css/components/footer.css" %}
+    {% include "assets/css/components/contact.css" %}
+    {% include "assets/css/components/about.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}

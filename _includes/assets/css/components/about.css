@@ -1,0 +1,35 @@
+.about {
+    display: flex;
+    height: 600px;
+    padding: 60px calc((100% - 1220px)/2);
+}
+
+.about .images {
+    width: 50%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: calc(60% - 8px) calc(40% - 8px);
+    column-gap: 16px;
+    row-gap: 16px;
+}
+
+.about .images img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about .images img:nth-child(3){
+    grid-column: 1 / 3;
+}
+
+.about .description {
+    width: 50%;
+    padding: 60px;
+}
+
+.about .description h3 {
+    font-size: 3rem;
+    margin-top: 0;
+}

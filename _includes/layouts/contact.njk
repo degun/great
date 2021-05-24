@@ -2,8 +2,33 @@
 layout: layouts/base.njk
 section: contact
 ---
-<h1>{{ title }}</h1>
 
-{{ layoutContent | safe }}
+{% from "components/pagetitle.njk" import pageTitle %}
 
-{% include "components/form.njk" %}
+{{pageTitle("Contact")}}
+
+<div class="contacts">
+    <div class="contact-info">
+        <h2>Get in touch</h2>
+        <div class="info">
+          <i class="fa fa-map-marker-alt"></i>
+          520 Cliff St, Unit 409, Fairview, NJ 07022
+        </div>
+        <div class="info">
+          <i class="fa fa-phone"></i>
+          <a href="tel: +19295364386">+1 (929) 536-4386</a>
+        </div>
+        <div class="info">
+          <i class="fa fa-envelope"></i>
+          <a href="mailto: info@thegreatconstruction.com">info@thegreatconstruction.com</a>
+        </div>
+    </div>
+    <div class="contact-form">
+        <h3>Got a project in mind? <br /><strong>Get a free estimate!</strong></h3>
+        <p>Send us as many details as possible, so our estimate can be more accurate.</p>
+        {% include "components/form.njk" %}
+    </div>
+</div>
+<iframe
+  src='https://api.mapbox.com/styles/v1/mapbox/streets-v11.html?zoomwheel=false&access_token=pk.eyJ1IjoiZWRsaXJ2IiwiYSI6ImNrbDZsa3A0cjB6NTgyb3A2M3Z3aHkwYjgifQ.qw-CzpSVrcynr9NtpdUtJg#16/40.820732/-74.001406' width='100%' height='400px'>
+</iframe> 
