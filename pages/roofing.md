@@ -1,5 +1,6 @@
 ---
 title: Roofing
+layout: layouts/page.njk
 date: 2021-05-24T15:03:50.002Z
 permalink: /services/roofing/
 image: /static/img/roofing.jpg

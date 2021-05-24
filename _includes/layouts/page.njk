@@ -2,6 +2,19 @@
 layout: layouts/base.njk
 section: page
 ---
-<h1>{{ title }}</h1>
+{% from "components/pagetitle.njk" import pageTitle %}
+{{pageTitle(title)}}
 
-{{ layoutContent | safe }}
+<div class="page">
+    <div class="sider">
+        {% for service in menus[3].children %}
+            <a href="{{service.route}}" {% if service.route == page.url %} class="active" {% endif %}>
+                {{service.name}}
+            </a>
+        {% endfor %}
+    </div>
+    <div class="body">
+        <img src="{{image}}" />
+        {{ layoutContent | safe }}
+    </div>
+</div>
