@@ -33,7 +33,7 @@ It is also likely to get covered with frost during winter. This type of brick is
 
 Our professional chimney builders make sure that we only use the best mortar mix to build your chimney. For a more durable hold, we use Type N mortar mix which is great for building chimneys. This type of cement is sulfate-resistant which prevents corrosion.
 
-What’s more, to keep it protected from even the harshest weather conditions, we at First Rate Roofing use solvent-based dark paint.
+What’s more, to keep it protected from even the harshest weather conditions, we at The Great Construction Company use solvent-based dark paint.
 
 **Stainless Steel** 
 
@@ -73,7 +73,7 @@ We can custom-build a freestanding stove chimney. It is the kind of chimney wher
 
 ### Our Services
 
-Chimneys are complex structures that need professionals who can build and install it properly. Furthermore, it can be damaged over time through wear and tear. Without proper maintenance, serious problems can arise. We at First Rate Roofing and Chimneys offer repairs for all parts of your chimney and more. Here are our chimney services.
+Chimneys are complex structures that need professionals who can build and install it properly. Furthermore, it can be damaged over time through wear and tear. Without proper maintenance, serious problems can arise. We at The Great Construction Company offer repairs for all parts of your chimney and more. Here are our chimney services.
 
 **Construction and Installation**
 

@@ -64,7 +64,7 @@ A steel siding can last for more than 25 years. And with proper maintenance, it 
 
 ### Our Services
 
-If you are ever on the lookout for a professional siding contractor, then look no further. We at First Rate Roofing and Chimney takes pride in providing only the best service. We are dedicated to completing any job perfectly. We are the top siding contractor in New Jersey.
+If you are ever on the lookout for a professional siding contractor, then look no further. We at The Great Construction and Chimney takes pride in providing only the best service. We are dedicated to completing any job perfectly. We are the top siding contractor in New Jersey.
 
 Our experts use only cutting-edge technology and high-quality materials. So choose the type and style you want and boost your home or commercial building’s aesthetic and curb value.
 

@@ -57,7 +57,7 @@ Bricks include
 * Fly ash bricks
 * Engineering bricks
 
-We at **First Rate Roofing and Chimney** use a variety of top quality bricks for our projects. You also have plenty of options to choose from. Our experts can also help you decide which type of brick is best. 
+We at **The Great Construction and Chimney** use a variety of top quality bricks for our projects. You also have plenty of options to choose from. Our experts can also help you decide which type of brick is best. 
 
 **Stone**
 

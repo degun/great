@@ -62,11 +62,11 @@ Our specialists provide expert advice on the proper timing of replacing or repai
 
 * **Emergency roof repair**
 
-You can call on us anytime, 24/7, for your **emergency roof repair** needs in New Jersey. First Rate Roofing and Chimney’s roofing specialists are ready to take action to ensure that your problem will be addressed as quickly as possible. You can be assured in knowing that your family and your home or your building are well-protected.
+You can call on us anytime, 24/7, for your **emergency roof repair** needs in New Jersey. The Great Construction and Chimney’s roofing specialists are ready to take action to ensure that your problem will be addressed as quickly as possible. You can be assured in knowing that your family and your home or your building are well-protected.
 
 ### Quality Materials
 
-**First Rate Roofing and Chimney** are the roofing experts in New Jersey. We use a wide variety of quality materials suited to the New Jersey weather. Plus, We see to it that these materials meet the quality standards of ASTM International (the former American Society for Testing and Materials) as well as other regulatory bodies.
+**The Great Construction and Chimney** are the roofing experts in New Jersey. We use a wide variety of quality materials suited to the New Jersey weather. Plus, We see to it that these materials meet the quality standards of ASTM International (the former American Society for Testing and Materials) as well as other regulatory bodies.
 
 We are proud to say that we work in partnership with the industry’s most reliable and trusted manufacturers. So we use only the highest quality products for your roofing project.
 
@@ -74,6 +74,6 @@ We are proud to say that we work in partnership with the industry’s most relia
 
 We offer the best product warranties for your roofing project. We at **The Great Construction Company** see to it that all the materials we use are covered by warranties to keep you protected. These warranties ensure that your newly-installed roofing system is protected and free from manufacturing defects or flaws.
 
-So, have peace of mind and keep your family, valuables, and properties safe and well-protected. We at First Rate Roofing and Chimney can guarantee that we install your roofing flawlessly. All these with an added bonus of increased curb appeal.
+So, have peace of mind and keep your family, valuables, and properties safe and well-protected. We at The Great Construction and Chimney can guarantee that we install your roofing flawlessly. All these with an added bonus of increased curb appeal.
 
 We see to it that this is done within your budget and on time. What’s more, we make you a part of the whole roofing process.

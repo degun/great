@@ -50,7 +50,7 @@ These are U-shaped gutters commonly used to give a historical appeal to your hom
 
 ### Gutter Materials
 
-We at **First Rate Roofing and Chimney** use quality gutter materials and products from our partner manufacturers and suppliers. These are covered by warranties to ensure that materials standards are met.
+We at **The Great Construction and Chimney** use quality gutter materials and products from our partner manufacturers and suppliers. These are covered by warranties to ensure that materials standards are met.
 
 **Copper gutters**
 
@@ -93,7 +93,7 @@ We at **The Great Construction Company** install and replace the following typ
 
 ### Services
 
-We are one of the top gutter contractors in New Jersey. We at First Rate Roofing and Chimney provide the following services:
+We are one of the top gutter contractors in New Jersey. We at The Great Construction and Chimney provide the following services:
 
 **Gutter installation**
 

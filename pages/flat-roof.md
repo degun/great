@@ -20,7 +20,7 @@ In fact, if the **flat roof** is well maintained, it is quite an effective roo
 
 ### What are the Materials We Use?
 
-We at the First Rate Roofing and Chimney use only top quality materials for your flat roofing system. We can also install any flat-roofing material of your choice. So, don’t hesitate to contact us for a free quote.
+We at the The Great Construction and Chimney use only top quality materials for your flat roofing system. We can also install any flat-roofing material of your choice. So, don’t hesitate to contact us for a free quote.
 
 **TPO**
 
