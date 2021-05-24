@@ -8,11 +8,11 @@ Your **roofing** is one of the most important aspects of your home. It protect
 
 However, the roofing design and specifications have to comply with the building code and other regulations in your area. The wide array of roofing materials can also be daunting to the home or building owner. Whether it is a new installation, repair or restoration, you should work with a reliable contractor who can deliver prompt and professional services in the most cost-efficient manner possible.
 
-We at **First Rate Roofing and Chimney** can do all these and more.
+We at **The Great Construction Company** can do all these and more.
 
 ### Specialization
 
-At **First Rate Roofing and Chimney**, we know how important it is to have a quality and properly-installed roof. With more than 25 years of experience, our team of expert roofers can flawlessly repair, restore, replace or install the roofing of your choice.
+At **The Great Construction Company**, we know how important it is to have a quality and properly-installed roof. With more than 15 years of experience, our team of expert roofers can flawlessly repair, restore, replace or install the roofing of your choice.
 
 We specialize in shingle roofing, tile roofing, wood roofing, and flat roofing.
 
@@ -29,7 +29,7 @@ We have professional roofers who can inspect the integrity and state of your roo
 We can also do an interior inspection or an exterior inspection, or both, of your roof. We then recommend the measures that you need to take to prevent further problems.\
 Also, our **roofing** expert can advise you when and how to conduct maintenance activities.
 
-Through our 25 years of experience, our team of certified **roofing** specialists has gained the expertise to correctly and thoroughly assess your roof. Call us today for a free no-obligation inspection. Let **First Rate Roofing and Chimney** help in solving your roofing problems on time and within budget.
+Through our 15 years of experience, our team of certified **roofing** specialists has gained the expertise to correctly and thoroughly assess your roof. Call us today for a free no-obligation inspection. Let **The Great Construction Company** help in solving your roofing problems on time and within budget.
 
 * **Free estimates**
 
@@ -45,7 +45,7 @@ We will also regularly update you on the status of your project. In this way, yo
 
 * **Roof leak damage repair**
 
-We at **First Rate Roofing and Chimney** guarantee that we can stop roof leaks and damages. We understand the serious damage that a leak can pose to your health and home or building. Thus, it is imperative to fix your roof at the earliest possible time.
+We at **The Great Construction Company** guarantee that we can stop roof leaks and damages. We understand the serious damage that a leak can pose to your health and home or building. Thus, it is imperative to fix your roof at the earliest possible time.
 
 Our professional **roof leak repai**r team responds and works quickly, even for emergency repairs. Our services include repair of roof flashing, fascia, roof plywood, and wood rot, among many others.
 
@@ -55,8 +55,7 @@ You will definitely have peace of mind when working with one of the **best roof
 
 * **Skylight repair and replacement**
 
-\
-**First Rate Roofing and Chimney** is also the skylight professional in New Jersey that you can definitely rely on. If you need a new skylight installed, replaced or repaired, then we are more than ready to come to your assistance.
+**The Great Construction Company** is also the skylight professional in New Jersey that you can definitely rely on. If you need a new skylight installed, replaced or repaired, then we are more than ready to come to your assistance.
 
 Our specialists provide expert advice on the proper timing of replacing or repairing your skylights. Plus, we see to it that we show you the most cost-effective way of doing it. We also present the different types of skylights suited to your roof so you can make the right choice.
 
@@ -72,7 +71,7 @@ We are proud to say that we work in partnership with the industry’s most relia
 
 ### Warranty
 
-We offer the best product warranties for your roofing project. We at **First Rate Roofing and Chimney** see to it that all the materials we use are covered by warranties to keep you protected. These warranties ensure that your newly-installed roofing system is protected and free from manufacturing defects or flaws.
+We offer the best product warranties for your roofing project. We at **The Great Construction Company** see to it that all the materials we use are covered by warranties to keep you protected. These warranties ensure that your newly-installed roofing system is protected and free from manufacturing defects or flaws.
 
 So, have peace of mind and keep your family, valuables, and properties safe and well-protected. We at First Rate Roofing and Chimney can guarantee that we install your roofing flawlessly. All these with an added bonus of increased curb appeal.
 
