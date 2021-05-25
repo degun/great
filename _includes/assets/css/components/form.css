@@ -5,6 +5,7 @@ form {
     column-gap: 8px;
     row-gap: 8px;
     width: 100%;
+    box-sizing: border-box;
 }
 
 form input, form select {

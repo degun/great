@@ -85,9 +85,11 @@
 @media (max-width: 900px){
     .contacts {
         flex-direction: column-reverse;
+        padding: 0;  
     }
 
     .contacts .contact-form, .contacts .contact-info {
         width: 100%;
+        padding: 30px;
     }
 }
