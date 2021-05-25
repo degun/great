@@ -5,15 +5,16 @@ section: page
 {% from "components/pagetitle.njk" import pageTitle %}
 {{pageTitle(title)}}
 
-<div class="page">
+<div class="page" id="content">
     <div class="sider">
-        {% for service in menus[3].children %}
-            <a href="{{service.route}}" {% if service.route == page.url %} class="active" {% endif %}>
+        {% for service in menus[2].children %}
+            <a href="{{service.route}}#content" {% if service.route == page.url %} class="active" {% endif %}>
+                <img src="{{service.icon}}" />
                 {{service.name}}
             </a>
         {% endfor %}
     </div>
-    <div class="body" id="content">
+    <div class="body">
         <img src="{{image}}" />
         {{ layoutContent | safe }}
     </div>

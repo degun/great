@@ -4,7 +4,7 @@
   <input type="text" name="phone" id="phone" autocomplete="phone" pattern="[0-9]*" inputmode="numeric" placeholder="Phone number" title="Please enter your phone number">
   <input type="text" name="city" id="city" autocomplete="city" placeholder="Your city" title="Please enter your city">
   <select name="service" id="service">
-    {% for service in menus[3].children %}
+    {% for service in menus[2].children %}
     <option value="{{service.name}}">{{service.name}}</option>
     {% endfor %}
   </select>

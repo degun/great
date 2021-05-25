@@ -9,13 +9,13 @@ permalink: /
     <div class="content">
         <h3>We do it the right way</h3>
         <h1>Great services at an <a href="/contact/">affordable price</a></h1>
-        <a href="/contacts#content"><button class="gradient-btn">
+        <a href="/contact#content"><button class="gradient-btn">
             <i class="fa fa-arrow-right"></i> Let's start here with a free estimate
         </button></a>
     </div>
 </div>
 <div class="services">
-    {% for service in menus[3].children %}
+    {% for service in menus[2].children %}
         <a href="{{service.route}}">
             <img src="{{service.icon}}" alt="{{servie.name}} icon" />
             <h3>{{service.name}}</h3>

@@ -11,7 +11,7 @@
         </div>
       </div>
     {% else %}
-      <a href="{{ entry.route | url }}"{% if entry.route == page.url %} class="current" {% endif %}>{{ entry.name }}</a>
+      <a href="{{ entry.route | url }}#content"{% if entry.route == page.url %} class="current" {% endif %}>{{ entry.name }}</a>
     {% endif %}
   {%- endfor %}
 </nav>

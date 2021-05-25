@@ -10,11 +10,6 @@
         "children": null
     },
     {
-        "name":"Work", 
-        "route": "/work/",
-        "children": null
-    },
-    {
         "name":"Services", 
         "route": "/services/roofing/",
         "children": [
