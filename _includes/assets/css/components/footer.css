@@ -72,8 +72,8 @@ footer .columns .column.links a {
 	width: max-content;
 }
 
-footer .columns .column.links a:hover {
-	color: var(--secondary);
+footer .columns .column.links a:hover, footer .columns .column.links a.current  {
+	color: var(--secondary-medium);
 }
 
 footer .columns .column .contact-info {
@@ -124,6 +124,14 @@ footer .copyright {
 
 @media (max-width: 600px){
 	footer .columns {
-		grid-template-columns: 1fr;
+		grid-template-columns: 1fr 1fr;
+	}
+
+	footer .columns .column:first-child{
+		grid-column: 1 / 3;
+	}
+
+	footer .columns .column:last-child{
+		grid-column: 1 / 3;
 	}
 }

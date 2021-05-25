@@ -65,10 +65,15 @@ header .navigation {
 
 header .navigation .logo {
 	height: 90%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
 }
 
 header .navigation .logo img {
 	height: 80%;
+	width: 180px;
+	object-fit: contain;
 }
 
 header .navigation nav.header-menu {

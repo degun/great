@@ -16,7 +16,7 @@ permalink: /
 </div>
 <div class="services">
     {% for service in menus[2].children %}
-        <a href="{{service.route}}">
+        <a href="{{service.route}}#content">
             <img src="{{service.icon}}" alt="{{servie.name}} icon" />
             <h3>{{service.name}}</h3>
             <p>{{service.description}}</p>

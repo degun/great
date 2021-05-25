@@ -58,6 +58,7 @@
     height: 400px;
     object-fit: cover;
     background-position: 50%;
+    border-radius: 4px;
 }
 
 @media (max-width: 1260px){
@@ -83,10 +84,6 @@
     
     .page .sider a:last-child {
         border-radius: 0;
-    }
-
-    .page .body img {
-        border-radius: 4px;
     }
 
     .page .body p {
