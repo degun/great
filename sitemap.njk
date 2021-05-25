@@ -1,0 +1,21 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for page in menus %}
+        <url>
+            <loc>{{ site.url }}{{ page.route | url }}</loc>
+            <changefreq>{{ "yearly" }}</changefreq>
+        </url>
+    {% if page.children %}
+        {% for p in page.children %}
+        <url>
+            <loc>{{ site.url }}{{ p.route | url }}</loc>
+            <changefreq>{{ "yearly" }}</changefreq>
+        </url>
+        {% endfor %}
+    {% endif %}
+    {% endfor %}
+</urlset>
