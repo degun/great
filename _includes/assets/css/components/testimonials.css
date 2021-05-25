@@ -44,3 +44,9 @@
  .testimonials .single .rating i{
     color: #FADB15;
 }
+
+@media (max-width: 1260px) {
+    .testimonials {
+        width: auto;
+    }
+}

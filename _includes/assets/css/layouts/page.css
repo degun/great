@@ -25,6 +25,7 @@
 .page .sider a.active, .page .sider a.active:hover {
     color: var(--secondary);
     background-color: var(--primary);
+    border: 1px solid var(--primary)
 }
 
 .page .sider a:hover {
@@ -40,4 +41,20 @@
     height: 400px;
     object-fit: cover;
     background-position: 50%;
+}
+
+@media (max-width: 700px){
+    .page {
+        padding-top: 0;
+        grid-template-columns: 1fr;
+    }
+
+    .page .sider a {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
+
+    .page .body p {
+        padding: 0 16px;
+    }
 }

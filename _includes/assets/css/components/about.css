@@ -1,6 +1,5 @@
 .about {
     display: flex;
-    height: 600px;
     padding: 60px calc((100% - 1220px)/2);
 }
 
@@ -26,10 +25,33 @@
 
 .about .description {
     width: 50%;
-    padding: 60px;
+    padding-left: 60px;
 }
 
 .about .description h3 {
     font-size: 3rem;
     margin-top: 0;
+}
+
+@media (max-width: 1260px){
+    .about {
+        padding: 60px 5%;
+    }
+}
+
+@media (max-width: 900px){
+    .about .description h3{
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 750px){
+    .about {
+        flex-direction: column-reverse;
+    }
+
+    .about .images, .about .description {
+        width: 100%;
+        padding-left: 0;
+    }
 }

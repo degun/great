@@ -19,9 +19,10 @@
         </div>
     </div>
     <div class="navigation">
-        <img src="{{logos.main_logo | relative}}" alt="Logo" class="logo">
+        <a href="/"  class="logo"><img src="{{logos.main_logo | relative}}" alt="Logo"></a>
         {% include "components/nav.njk" %}
-        <button class="gradient-btn"><i class="fa fa-arrow-right"></i> Free estimate</button>
+        <a href="/contact#content"><button class="gradient-btn"><i class="fa fa-arrow-right"></i> Free estimate</button></a>
+        {% include "components/mobilemenu.njk" %}
     </div>
     <div class="benefits">
         <div class="benefit">

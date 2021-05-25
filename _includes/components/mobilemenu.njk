@@ -1,0 +1,22 @@
+<amp-sidebar id="sidebar" class="mobilemenu" layout="nodisplay" side="right">
+  <i on="tap:sidebar.close" class="fas fa-times"></i>
+  <nav class="mobile">
+    <img src="{{logos.main_logo | relative}}" alt="Logo" class="logo">
+    {% set navPages = menus %}
+    {%- for entry in navPages %}
+        {% if entry.children %}
+        <div class="with-subs">
+            <a href="{{ entry.route | url }}#content"{% if entry.route == page.url %} class="current"{% endif %}>{{ entry.name }}</a>
+            <div class="sub">
+            {% for child in entry.children %}
+                <a href="{{ child.route | url }}#content"{% if child.route == page.url %} class="current"{% endif %}>{{ child.name }}</a>
+            {% endfor %}
+            </div>
+        </div>
+        {% else %}
+        <a href="{{ entry.route | url }}#content"{% if entry.route == page.url %} class="current" {% endif %}>{{ entry.name }}</a>
+        {% endif %}
+    {%- endfor %}
+    </nav>
+</amp-sidebar>
+<i on="tap:sidebar.open" class="fas fa-bars"></i>

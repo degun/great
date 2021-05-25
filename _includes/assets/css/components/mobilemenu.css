@@ -1,0 +1,35 @@
+.mobilemenu .mobile {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 60px;
+}
+
+.mobilemenu .mobile img {
+    width: 150px;
+    margin: 32px 0;
+}
+
+.mobilemenu i.fas.fa-times {
+	font-size: 2rem;
+	color: var(--primary);
+	position: absolute;
+	left: 16px;
+    top: 16px;
+}
+
+.mobilemenu .mobile a {
+    padding: 8px 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--primary);
+}
+
+.mobilemenu .mobile a.current {
+    font-weight: bold;
+}
+
+.mobilemenu .mobile .sub{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}

@@ -42,3 +42,18 @@ form button i {
     font-size: 1.3rem;
     margin-right: 8px;
 }
+
+@media (max-width: 500px){
+    form {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(6, 64px);
+    }
+
+    form select, form button {
+        grid-column: 1 / 2;
+    }
+
+    form input {
+        min-width: 0;
+    }
+}

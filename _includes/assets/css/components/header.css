@@ -25,7 +25,6 @@ header .banner .left .info{
 
 header .banner .right {
 	height: 100%;
-	width: 40%;
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
@@ -65,16 +64,20 @@ header .navigation {
 }
 
 header .navigation .logo {
+	height: 90%;
+}
+
+header .navigation .logo img {
 	height: 80%;
 }
 
-header .navigation nav {
+header .navigation nav.header-menu {
 	display: flex;
 	justify-content: space-between;
 	width: 40%;
 }
 
-header .navigation nav a{
+header .navigation nav.header-menu a{
 	text-decoration: none;
 	text-transform: uppercase;
 	color: var(--text);
@@ -83,25 +86,25 @@ header .navigation nav a{
 	position: unset;
 }
 
-header .navigation nav a:hover{
+header .navigation nav.header-menu a:hover{
 	color: var(--secondary);
 }
 
-header .navigation nav a.current{
+header .navigation nav.header-menu a.current{
 	color: var(--secondary);
 }
 
-header .navigation nav a.with-submenu{
+header .navigation nav.header-menu a.with-submenu{
 	position: relative;
 }
 
-header .navigation nav .with-submenu:hover .submenu{
+header .navigation nav.header-menu .with-submenu:hover .submenu{
 	max-height: 500px;
 	transform: translateX(-15px) translateY(20px);
 	z-index: 2;
 }
 
-header .navigation nav .submenu {
+header .navigation nav.header-menu .submenu {
 	position: absolute;
 	display: flex;
 	flex-direction: column;
@@ -114,14 +117,26 @@ header .navigation nav .submenu {
 	border-radius: 4px;
 }
 
-header .navigation nav .submenu a{
+header .navigation nav.header-menu .submenu a{
 	padding: 10px 15px;
 	color: var(--background);
 }
 
-header .navigation nav .submenu a:hover, header .navigation nav .submenu a.current{
+header .navigation nav.header-menu .submenu a:hover, header .navigation nav.header-menu .submenu a.current{
 	color: var(--secondary);
 	background-color: #666;
+}
+
+header .navigation a {
+	text-decoration: none;
+}
+
+header .navigation i.fas.fa-bars {
+	font-size: 2rem;
+	color: var(--primary);
+	display: none;
+	position: absolute;
+	right: 5%;
 }
 
 header .benefits {
@@ -171,4 +186,130 @@ header .benefits .benefit .desc .upper {
 header .benefits .benefit .desc .lower i{
 	font-size: 1.4rem;
 	margin-right: 12px;
+}
+
+@media (max-width: 1260px){
+	header .banner {
+		padding: 16px 5%;
+	}
+	header .navigation {
+		padding: 16px 5%;
+	}
+}
+
+@media (max-width: 1150px){
+	header .banner {
+		flex-direction: column;
+		height: 80px;
+	}
+
+	header .banner .right {
+		height: 48px;
+		padding: 16px 0;
+	}
+}
+
+@media (max-width: 1000px){
+	header .benefits{
+		padding: 0 5%;
+	}
+
+	header .benefits .benefit, header .benefits .benefit:first-child  {
+		border: none;
+	}
+
+	header .benefits .benefit .icon{
+		display: none;
+	}
+	header .benefits .benefit .desc{
+		width: 100%;
+		padding-right: 2rem;
+	}
+
+	header .benefits .benefit .upper, header .benefits .benefit .lower{
+		white-space: nowrap;
+	}
+}
+
+@media (max-width: 900px){
+	header .navigation nav.header-menu {
+		display: none;
+	}
+
+	header .navigation {
+		margin-right: 2.5rem;
+	}	
+
+	header .navigation i.fas.fa-bars {
+		display: inline-block;
+	}
+}
+
+@media (max-width: 760px){
+	header .banner .left .info {
+		white-space: nowrap;
+		font-size: 0.9rem;
+	}
+}
+
+@media (max-width: 640px){
+	header .banner {
+		height: auto;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	header .banner .left {
+		flex-wrap: wrap;
+	}
+
+	header .banner .right {
+		flex-direction: column;
+		align-items: flex-start;
+		margin-left: 0;
+		padding-top: 0;
+		padding-bottom: 0;
+		width: 100%;
+	}
+
+	header .banner .right .social {
+		border-left: none;
+		height: 28px;
+		display: flex;
+		align-items: center;
+		width: 100%;
+		padding-top: 8px;
+	}
+
+	header .banner .right .social a:first-child {
+		margin-left: 0;
+	}
+
+	header .benefits {
+		display: flex;
+		flex-direction: column;
+		height: auto;
+	}
+
+	header .benefits .benefit .desc {
+		flex-direction: row;
+		align-items: center;
+		padding: 8px 0;
+		border-bottom: 1px solid #bcbec899;
+	}
+
+	header .benefits .benefit .desc .upper {
+		font-size: 1.1rem;
+	}
+}
+
+@media (max-width: 500px){
+	header .navigation .gradient-btn {
+		display: none;
+	}
+}
+
+@media (max-width: 400px){
+	header .benefits .benefit .desc .upper {
+		font-size: 1rem;
+	}
 }
