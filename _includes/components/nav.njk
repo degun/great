@@ -1,12 +1,12 @@
-<nav>
+<nav class="header-menu">
   {% set navPages = menus %}
   {%- for entry in navPages %}
     {% if entry.children %}
       <div class="with-submenu">
-        <a href="{{ entry.route | url }}"{% if entry.route == page.url %} class="current"{% endif %}>{{ entry.name }}</a>
+        <a href="{{ entry.route | url }}#content"{% if entry.route == page.url %} class="current"{% endif %}>{{ entry.name }}</a>
         <div class="submenu">
           {% for child in entry.children %}
-            <a href="{{ child.route | url }}"{% if child.route == page.url %} class="current"{% endif %}>{{ child.name }}</a>
+            <a href="{{ child.route | url }}#content"{% if child.route == page.url %} class="current"{% endif %}>{{ child.name }}</a>
           {% endfor %}
         </div>
       </div>
