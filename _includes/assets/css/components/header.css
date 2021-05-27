@@ -71,9 +71,10 @@ header .navigation .logo {
 }
 
 header .navigation .logo img {
-	height: 80%;
+	height: 100%;
 	width: 180px;
 	object-fit: contain;
+	margin-top: 4px;
 }
 
 header .navigation nav.header-menu {

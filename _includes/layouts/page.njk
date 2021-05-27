@@ -15,7 +15,9 @@ section: page
         {% endfor %}
     </div>
     <div class="body">
-        <img src="{{image}}" alt="Example of {{title}} work" />
+        {% if image %}
+        {% img image | replace("/static", "./static"), "page-image", "page head", "", [720] %}
+        {% endif %}
         {{ layoutContent | safe }}
     </div>
 </div>
