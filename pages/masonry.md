@@ -2,7 +2,7 @@
 title: Masonry
 date: 2021-05-24T15:47:01.189Z
 permalink: /services/masonry/
-image: /static/img/sidewalk.jpg
+image: /static/img/sw.png
 ---
 
 
