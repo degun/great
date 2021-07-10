@@ -88,7 +88,7 @@ header .navigation nav.header-menu a{
 	text-transform: uppercase;
 	color: var(--text);
 	font-weight: 500;
-	transition: 0.2s color ease-in-out;
+	transition: 0.2s color, 0.2s background-color;
 	position: unset;
 	padding: 8px 16px;
 	border-radius: 4px;
