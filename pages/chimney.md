@@ -1,5 +1,6 @@
 ---
 title: Chimney
+metaDescription: The Great Construction is your one stop chimney company specializing in every aspect of chimney maintenance and repair. Chimney cleaning, inspection, and repair in New Jersey. Quality Work-Reasonable Prices.
 date: 2021-05-24T15:38:24.772Z
 permalink: /services/chimney/
 image: /static/img/chimney.jpg

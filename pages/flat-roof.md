@@ -1,5 +1,6 @@
 ---
 title: Flat Roof
+metaDescription: The Great Construction is a Certified Contractor for the Installation, Replacement, Maintenance and Repair of Flat Roof and Low Pitch Roof. Quality Work-Reasonable Prices.
 date: 2021-05-24T15:35:59.562Z
 permalink: /services/flat-roof/
 image: /static/img/flat_roof.jpg

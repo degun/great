@@ -28,6 +28,7 @@
   "dependencies": {
     "@11ty/eleventy-img": "^0.9.0",
     "@11ty/eleventy-navigation": "^0.1.6",
+    "@quasibit/eleventy-plugin-schema": "^1.0.0",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9"

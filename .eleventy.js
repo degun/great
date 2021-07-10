@@ -4,6 +4,7 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const schema = require("@quasibit/eleventy-plugin-schema");
 const Image = require("@11ty/eleventy-img");
 
 function imageShortcode(src, cls, alt, sizes, widths) {
@@ -38,6 +39,8 @@ module.exports = function(eleventyConfig) {
   // post to a new file like this:
   // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
 
+  // schema.org plugin
+  eleventyConfig.addPlugin(schema);
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);

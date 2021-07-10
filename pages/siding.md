@@ -1,5 +1,6 @@
 ---
 title: Siding
+metaDescription: Our expert team is able to meticulously install your new siding with precision and care. We also offer siding repair, siding maintenance and siding replacement services as well. Call today +1 (929) 536-4386 for a quote!
 date: 2021-05-24T15:44:08.131Z
 permalink: /services/siding/
 image: /static/img/siding.jpg

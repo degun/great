@@ -115,6 +115,11 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
+"@quasibit/eleventy-plugin-schema@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@quasibit/eleventy-plugin-schema/-/eleventy-plugin-schema-1.0.0.tgz#ede8336852312a31ecd8475111f9539fd8106dfe"
+  integrity sha512-eM61mM9xDYonJnq2IjPENa9be89mMP3CcRmpQpjQphB4gReoojUzE0MEBTtqNlX8Zl9qjzJznLGcnv3TNHMEQg==
+
 "@types/minimatch@^3.0.3":
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.4.tgz#f0ec25dbf2f0e4b18647313ac031134ca5b24b21"
