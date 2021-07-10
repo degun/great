@@ -2,7 +2,7 @@
   <div class="columns">
     {% set pages = menus %}
     <div class="column">
-      <img src="{{logos.footer_logo | relative}}" />
+      {% img logos.footer_logo, "footer-logo", "Logo", "414px, 1260px", [320, 720] %}
       <p>A family owned and operated business, proudly serving its customers with integrity and attention to details.</p>
       {% include "components/social.njk" %}
     </div>

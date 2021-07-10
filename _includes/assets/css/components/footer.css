@@ -11,8 +11,10 @@ footer .columns .column {
 	flex-direction: column;
 }
 
-footer .columns .column img {
+footer .columns .column img.footer-logo {
 	width: 60%;
+	height: auto;
+	padding-top: 16px;
 }
 
 footer .columns .column p {
@@ -43,7 +45,7 @@ footer .columns .social a:hover {
 }
 
 footer .columns .social a img {
-	height: 100%;
+	height: 80%;
 }
 
 footer .columns .column h2 {

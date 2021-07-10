@@ -20,7 +20,7 @@
     </div>
     <div class="navigation">
         <a href="/"  class="logo">
-            <img src="{{logos.main_logo | relative}}" alt="Logo">
+            {% img logos.main_logo, "header-logo", "Logo", "", [720] %}
         </a>
         {% include "components/nav.njk" %}
         <a href="/contact#content"><button class="gradient-btn"><i class="fa fa-arrow-right"></i> Free estimate</button></a>

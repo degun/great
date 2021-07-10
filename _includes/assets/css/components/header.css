@@ -71,9 +71,10 @@ header .navigation .logo {
 }
 
 header .navigation .logo img {
-	height: 80%;
+	height: 100%;
 	width: 180px;
 	object-fit: contain;
+	margin-top: 4px;
 }
 
 header .navigation nav.header-menu {
@@ -89,23 +90,27 @@ header .navigation nav.header-menu a{
 	font-weight: 500;
 	transition: 0.2s color ease-in-out;
 	position: unset;
+	padding: 8px 16px;
+	border-radius: 4px;
 }
 
 header .navigation nav.header-menu a:hover{
+	background-color: var(--primary);
 	color: var(--secondary);
 }
 
 header .navigation nav.header-menu a.current{
+	background-color: var(--primary);
 	color: var(--secondary);
 }
 
-header .navigation nav.header-menu a.with-submenu{
-	position: relative;
+header .navigation nav.header-menu .with-submenu{
+	margin-top: 8px;
 }
 
 header .navigation nav.header-menu .with-submenu:hover .submenu{
 	max-height: 500px;
-	transform: translateX(-15px) translateY(20px);
+	transform: translateY(20px);
 	z-index: 2;
 }
 
@@ -118,7 +123,7 @@ header .navigation nav.header-menu .submenu {
 	height: auto;
 	overflow: hidden;
 	transition: 0.3s max-height cubic-bezier(.75,.15,.83,.67), 0.3s transform cubic-bezier(.75,.15,.83,.67);
-	transform: translateX(-15px) translateY(10px);
+	transform: translateY(10px);
 	border-radius: 4px;
 }
 
