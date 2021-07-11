@@ -1,11 +1,11 @@
 ---
 layout: layouts/base.njk
-section: blog
-permalink: /blog/index.html
+section: projects
+permalink: /projects/index.html
 ---
 <h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
-{% set postslist = collections.post %}
-{% include "components/postslist.njk" %}
+{% set projectslist = collections.project %}
+{% include "components/projectslist.njk" %}
