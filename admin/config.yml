@@ -20,7 +20,7 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["project"] }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Images", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "images" }  }
+      - { label: "Images", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "image" }  }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
