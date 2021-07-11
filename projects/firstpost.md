@@ -1,6 +1,8 @@
 ---
 title: This is the first example post
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 date: 2019-01-01T00:00:00.000Z
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
@@ -8,6 +10,9 @@ tags:
   - environment
   - politics
   - sport
+images:
+  - /static/img/sidewalk.png
+  - /static/img/gutter.jpg
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
