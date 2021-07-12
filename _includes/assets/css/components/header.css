@@ -80,7 +80,7 @@ header .navigation .logo img {
 header .navigation nav.header-menu {
 	display: flex;
 	justify-content: space-between;
-	width: 40%;
+	width: 42%;
 }
 
 header .navigation nav.header-menu a{

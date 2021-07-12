@@ -16,7 +16,7 @@ section: page
     </div>
     <div class="body">
         {% if image %}
-        {% img image | replace("/static", "./static"), "page-image", "page head", "", [720] %}
+        {% img image | replace("/static", "./static"), "page-image", "page head", "", [1080] %}
         {% endif %}
         {{ layoutContent | safe }}
     </div>
