@@ -3,6 +3,7 @@ const Path = require('path')
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
+const metagen = require('eleventy-plugin-metagen');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const schema = require("@quasibit/eleventy-plugin-schema");
 const Image = require("@11ty/eleventy-img");
@@ -41,6 +42,8 @@ module.exports = function(eleventyConfig) {
 
   // schema.org plugin
   eleventyConfig.addPlugin(schema);
+  // metadata generation
+  eleventyConfig.addPlugin(metagen);
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
