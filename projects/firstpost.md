@@ -17,20 +17,8 @@ images:
   - /static/img/whatsapp-image-2021-05-11-at-3.01.06-pm.jpeg
   - /static/img/whatsapp-image-2021-05-11-at-3.01.04-pm.jpeg
 ---
-**Gutters** have one primary function. That is to divert rainwater away from the foundation and basement of your house. A good gutter system ensures that your home is protected from erosion and basement flooding.
+**Roof installation and replacement**
 
-It also protects the landscaping that you have around your home. In addition, an effectively-designed gutter system prevents the growth of mildew and mold. Plus, it helps you maintain the curb appeal of your home by mitigating paint damage and preventing stains from its exteriors.
+Our well-trained **roofing** specialists can complete the job on time and within budget. We provide the best roofing solutions in New Jersey for residential, commercial, and industrial structures. We are fully licensed and insured for a worry-free implementation of your roofing project.
 
-Living in New Jersey means experiencing damaging ice dams in your downspouts and gutters, most especially if you fail to have your gutters regularly cleaned. So, when was the last time you had yours checked?
-
-With **The Great Construction Company**, you can be assured that we can help you design and maintain your gutters.
-
-### Types of Gutters
-
-There are basically two types of gutters, seamed and seamless.
-
-**Seamed/sectional gutters**
-
-These are gutters that you can purchase in pieces or sections. They are then patched or assembled using an adhesive or a snap system or both to make a gutter system. Usually, this type of gutter system comes in lengths of ten feet to twenty feet.
-
-This gutter system is easy-to-install and costs much less than the other system. However, they may not last as long, eventually leaking in a much shorter time.
+We will also regularly update you on the status of your project. In this way, you will know that we are closely adhering to your requirements and specifications, as well as the schedules.
