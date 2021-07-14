@@ -18,7 +18,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-auto-rows: auto;
-    grid-gap: 32px;    
+    grid-gap: 16px;    
     padding: 60px calc((100% - 1220px)/2);
 } 
 
