@@ -52,6 +52,11 @@
         ]
     },
     {
+        "name":"Projects", 
+        "route": "/projects/",
+        "children": null
+    },
+    {
         "name":"Contact", 
         "route": "/contact/",
         "children": null

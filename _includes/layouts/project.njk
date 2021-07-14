@@ -3,29 +3,18 @@ layout: layouts/base.njk
 section: project
 ---
 
-<article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
+{% from "components/pagetitle.njk" import pageTitle %}
 
-  {{ layoutContent | safe }}
+{{pageTitle(title)}}
 
-  {% if tags %}
-    <p>
-    {% for tag in tags %}
-      {%- if tag != "project" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
+<article id="single-project">
+
+  {{ body | safe }}
+
+  <div class="images">
+    {% for image in images %}
+      {% img image | replace("/static", "./static"), "page-image", "{{ project.title }}", "", [400], "animation-delay: {{ loop.index0 * 100 }}" %}
     {% endfor %}
-    </p>
-  {% endif %}
-
+  </div>
+  
 </article>
-
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>

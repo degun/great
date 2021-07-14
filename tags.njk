@@ -16,11 +16,9 @@ renderData:
   metaDescription: "All projects from the Blog tagged with “{{ tag }}”"
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
-
 {% set projectslist = collections[tag] %}
 {% include "components/projectslist.njk" %}
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/projects/' | url }}">Projects index</a>
 </nav>

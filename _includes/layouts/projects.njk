@@ -8,5 +8,19 @@ section: projects
 {{pageTitle("Projects")}}
 
 <div class="projects" id="content">
-   
+    {% for p in collections.project %}
+        {% set project = p.data %}
+        {% set image = project.images[0] %}
+        <div class="project" style="animation-delay: {{loop.index0 * 100}}ms">
+            <div class="project-image">
+                <a href="{{p.url}}">
+                    {% img image | replace("/static", "./static"), "page-image", "{{ project.title }}", "", [400] %}
+                </a>
+            </div>
+            <div class="project-info">
+                <h2>{{project.title}}</h2>
+                <p>{{project.summary}}</p>
+            </div>
+        </div>
+{% endfor %}
 </div>

@@ -8,7 +8,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const schema = require("@quasibit/eleventy-plugin-schema");
 const Image = require("@11ty/eleventy-img");
 
-function imageShortcode(src, cls, alt, sizes, widths) {
+function imageShortcode(src, cls, alt, sizes, widths, style) {
   let options = {
     widths: widths,
     formats: ['png', 'jpeg'],
@@ -23,6 +23,7 @@ function imageShortcode(src, cls, alt, sizes, widths) {
     sizes,
     loading: "lazy",
     decoding: "async",
+    style
   };
   // get metadata even the images are not fully generated
   metadata = Image.statsSync(src, options);
