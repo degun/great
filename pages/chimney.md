@@ -8,6 +8,8 @@ date: 2021-05-24T15:38:24.772Z
 permalink: /services/chimney/
 image: /static/img/1000_f_173897207_1oulcqjg7qc4ptabwvk0cn4ekq269sl0.jpg
 ---
+**We Sweep, Repair & Install Chimneys in New Jersey**
+
 The Great Construction clean and repair all types of residential guttering in New Jersey.  Our services include Gutter Lining, repair and maintenance. All our services are 100% *guaranteed.
 
  
@@ -98,10 +100,30 @@ We have used several chimney sweep companies in the past and The Great Construct
 
 <!--EndFragment-->
 
-<!--EndFragment-->
 
-<!--EndFragment-->
 
-<!--EndFragment-->
+<!--StartFragment-->
+
+Construction and Installation
+
+We specialize in constructing several types of Chimneys. Our chimney experts can guarantee that our chimneys have the required concrete footing that is more than enough to support your structure.
+
+Also, each material used in the chimney design and construction are all certified and follows the standards of your local building codes. Moreover, our staff will make sure that you are well informed about every step of the process.
+
+![](https://lh3.googleusercontent.com/2P2-A3-y709ygHlXprb-dqv9L5GXn_N5iSbvu-PgB0j16QcTDRlX-dS3REqQKw2XoplIaCk7tBMn9AkeB6kA-aF4pmrmwSzvpiteVhFQXyqJsb_uIOT5Hae4M-6Ytzm5l4E1Xf0)
+
+Schedule a Chimney Cleaning & Inspection 
+
+You may need to get a chimney sweeping for the flues connected to your furnace/ hot water heater if you have not already.  Both oil and gas fired appliances must be cleaned or inspected annually.  Beat the rush and start thinking about scheduling your cleaning for your fireplace, wood stove, gas or wood fireplace inserts, service your gas log set and clean the flue that connects to your gas or oil heating appliance.
+
+
+
+  
+
+
+
+The Chimney Safety Institute of America (CSIA) recommends all homeowners have an annual chimney cleaning and inspection by a certified chimney sweep? Contact The Great Construction and make sure your home is safe.  Call us for a free estimate +1 (201) 673-5638.
+
+
 
 <!--EndFragment-->
