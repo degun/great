@@ -1,9 +1,10 @@
 <head>
+  <!-- accept unicode -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Google Tag Manager -->
-  {# <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -20,7 +21,7 @@
 
   gtag('config', 'AW-390506459');
   gtag('config', 'G-SWD87628D2');
-  </script> #}
+  </script>
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   {% metagen
@@ -31,11 +32,11 @@
       name="Edlir Velaj"
   %}
   <meta name="name" content="The Great Construction Company">
-  {# <link rel="stylesheet" href="{{ "_includes/assets/css/font_awesome/css/all.min.css" | relative}}"> #}
+  <link rel="stylesheet" href="{{ "_includes/assets/css/font_awesome/css/all.min.css" | relative}}">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
-  {# <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
+  <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
   <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> #}
+  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/layouts/base.css" %}
     {% include "assets/css/common.css" %}
