@@ -4,13 +4,10 @@ metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
 date: 2019-01-01T00:00:00.000Z
-summary: >
-  At The Great Construction Company, we know how important it is to have a
-  quality and properly-installed roof. With more than 15 years of experience,
+summary: "At The Great Construction Company, we know how important it is to have
+  a quality and properly-installed roof. With more than 15 years of experience,
   our team of expert roofers can flawlessly repair, restore, replace or install
-  the roofing of your choice. We know it’s difficult to determine the right
-  roofing solution for your building, that’s why we offer several services to
-  fit your roofing needs.
+  the roofing of your choice. "
 tags:
   - roofing
 images:
