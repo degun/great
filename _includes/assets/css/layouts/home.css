@@ -85,6 +85,12 @@
     color: var(--primary);
 }
 
+.services a img {
+    height: 100px;
+    width: 100px;
+}
+
+
 .services a h3 {
     font-size: 1.7rem;
     text-transform: uppercase;
@@ -186,6 +192,7 @@
 
 .discounts img{
    width: 100%;
+   aspect-ratio: 1.523/1;
 }
 
 @media (max-width: 1260px){
@@ -277,7 +284,7 @@
 
 @media (max-width: 500px){
     .services {
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
     }
 
     .services a:nth-child(3) {
@@ -290,7 +297,7 @@
         color: var(--primary);
     }
     .discounts {
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
     }
 }
 

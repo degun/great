@@ -37,8 +37,24 @@ permalink: /
 </div>
 {% include "components/towns.njk" %}
 <div class="discounts">
-    <img src="_includes/assets/images/discounts/discount2.png" alt="100$ off on jobs over 1000$">
-    <img src="_includes/assets/images/discounts/discount3.png" alt="Gutter cleaning starting at 80$">
-    <img src="_includes/assets/images/discounts/discount4.png" alt="Chimney cleaning starting at 90$">
-    <img src="_includes/assets/images/discounts/discount1.png" alt="Senior citizen and military discount">
+    <picture>
+        <source media="(max-width: 414px)" srcset="_includes/assets/images/discounts/discount2-min.png">
+        <source media="(min-width: 415px)" srcset="_includes/assets/images/discounts/discount2.png">
+        <img src="_includes/assets/images/discounts/discount2.png" alt="100$ off on jobs over 1000$">
+    </picture>
+    <picture>
+        <source media="(max-width: 414px)" srcset="_includes/assets/images/discounts/discount3-min.png">
+        <source media="(min-width: 415px)" srcset="_includes/assets/images/discounts/discount3.png">
+        <img src="_includes/assets/images/discounts/discount3.png" alt="Gutter cleaning starting at 80$">
+    </picture>
+    <picture>
+        <source media="(max-width: 414px)" srcset="_includes/assets/images/discounts/discount4-min.png">
+        <source media="(min-width: 415px)" srcset="_includes/assets/images/discounts/discount4.png">
+        <img src="_includes/assets/images/discounts/discount4.png" alt="Chimney cleaning starting at 90$">
+    </picture>
+    <picture>
+        <source media="(max-width: 414px)" srcset="_includes/assets/images/discounts/discount1-min.png">
+        <source media="(min-width: 415px)" srcset="_includes/assets/images/discounts/discount1.png">
+        <img src="_includes/assets/images/discounts/discount1.png" alt="Senior citizen and military discount">
+    </picture>
 </div>
