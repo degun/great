@@ -1,10 +1,10 @@
 ---
 title: New Vinyl Siding Installation
 date: 2021-07-12T18:18:05.706Z
-summary: >-
-  Vinyl Siding Installers
-
-  Many New Jersey homes and commercial buildings are moving toward this highly-requested material. If you’re looking for vinyl siding replacement, The Great Construction Company is a professional contractor in the area with years of experience installing vinyl siding. 
+summary: "Many New Jersey homes and commercial buildings are moving toward this
+  highly-requested material. If you’re looking for vinyl siding replacement, The
+  Great Construction Company is a professional contractor in the area with years
+  of experience installing vinyl siding. "
 tags:
   - project
 images:
