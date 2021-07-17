@@ -112,7 +112,11 @@ We specialize in constructing several types of Chimneys. Our chimney experts can
 
 Also, each material used in the chimney design and construction are all certified and follows the standards of your local building codes. Moreover, our staff will make sure that you are well informed about every step of the process.
 
-![](https://lh3.googleusercontent.com/2P2-A3-y709ygHlXprb-dqv9L5GXn_N5iSbvu-PgB0j16QcTDRlX-dS3REqQKw2XoplIaCk7tBMn9AkeB6kA-aF4pmrmwSzvpiteVhFQXyqJsb_uIOT5Hae4M-6Ytzm5l4E1Xf0)
+<!--StartFragment-->
+
+![a professional master covers the roof](https://as1.ftcdn.net/v2/jpg/02/35/30/52/1000_F_235305251_9ksyKyo9DKeYjcuO0TyXCLJSwmAKO30O.jpg)
+
+<!--EndFragment-->
 
 **Schedule a Chimney Cleaning & Inspection** 
 
