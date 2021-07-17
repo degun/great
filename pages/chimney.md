@@ -104,7 +104,9 @@ We have used several chimney sweep companies in the past and The Great Construct
 
 <!--StartFragment-->
 
-Construction and Installation
+
+
+**Construction and Installation**
 
 We specialize in constructing several types of Chimneys. Our chimney experts can guarantee that our chimneys have the required concrete footing that is more than enough to support your structure.
 
@@ -112,7 +114,7 @@ Also, each material used in the chimney design and construction are all certifie
 
 ![](https://lh3.googleusercontent.com/2P2-A3-y709ygHlXprb-dqv9L5GXn_N5iSbvu-PgB0j16QcTDRlX-dS3REqQKw2XoplIaCk7tBMn9AkeB6kA-aF4pmrmwSzvpiteVhFQXyqJsb_uIOT5Hae4M-6Ytzm5l4E1Xf0)
 
-Schedule a Chimney Cleaning & Inspection 
+**Schedule a Chimney Cleaning & Inspection** 
 
 You may need to get a chimney sweeping for the flues connected to your furnace/ hot water heater if you have not already.  Both oil and gas fired appliances must be cleaned or inspected annually.  Beat the rush and start thinking about scheduling your cleaning for your fireplace, wood stove, gas or wood fireplace inserts, service your gas log set and clean the flue that connects to your gas or oil heating appliance.
 
