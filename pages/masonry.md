@@ -1,6 +1,6 @@
 ---
 title: Masonry
-metaDescription: The Great Construction is a full service masonry contractor offering high quality work & customer service in New Jersey. We do all types of masonry repair, masonry construction & masonry restoration. Call today +1 (929) 536-4386 for a quote!
+metaDescription: The Great Construction is a full service masonry contractor offering high quality work & customer service in New Jersey. We do all types of masonry repair, masonry construction & masonry restoration. Call today +1 (201) 673-5638 for a quote!
 date: 2021-05-24T15:47:01.189Z
 permalink: /services/masonry/
 image: /static/img/sidewalk.png

@@ -35,3 +35,25 @@
      transform: translateY(-20px);
      animation: appear 0.8s cubic-bezier(0.4, 0.0, 0.2, 1) forwards;
  }
+
+ @media (max-width: 1220px) {
+     #single-project {
+        padding: 60px 5%;
+     }
+
+    .images {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (max-width: 800px) {
+    .images {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 500px) {
+    .images {
+        grid-template-columns: 100%;
+    }
+}

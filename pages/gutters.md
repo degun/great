@@ -1,6 +1,6 @@
 ---
 title: Gutters
-metaDescription: The Great Construction offers certified, professional gutter services in New Jersey, including gutter cleaning, gutter installation, gutter repair & more. Call today +1 (929) 536-4386 for a quote!
+metaDescription: The Great Construction offers certified, professional gutter services in New Jersey, including gutter cleaning, gutter installation, gutter repair & more. Call today +1 (201) 673-5638 for a quote!
 date: 2021-05-24T15:40:35.232Z
 permalink: /services/gutters/
 image: /static/img/gutter.jpg
@@ -117,4 +117,4 @@ Our gutter specialists will also give you tips on proper gutter maintenance.
 
 If you are looking for expert gutter repair specialists and installers in New Jersey, we at **The Great Construction Company** are your best bet.
 
-Using our services of our fully-insured gutter professionals will definitely leave you worry-free.**The Great Construction Company** is one of New Jersey's top Gutter Company and offers the best Gutter Cleaning at affordable prices. Gutter Cleaning starts at only $80.00. To set up your Gutter Cleaning Free Estimate or to schedule your Gutter Cleaning Services call now at +1 (929) 536-4386.
+Using our services of our fully-insured gutter professionals will definitely leave you worry-free.**The Great Construction Company** is one of New Jersey's top Gutter Company and offers the best Gutter Cleaning at affordable prices. Gutter Cleaning starts at only $80.00. To set up your Gutter Cleaning Free Estimate or to schedule your Gutter Cleaning Services call now at +1 (201) 673-5638.
