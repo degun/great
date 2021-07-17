@@ -8,8 +8,6 @@ date: 2021-05-24T15:38:24.772Z
 permalink: /services/chimney/
 image: /static/img/1000_f_173897207_1oulcqjg7qc4ptabwvk0cn4ekq269sl0.jpg
 ---
-<!--StartFragment-->
-
 The Great Construction clean and repair all types of residential guttering in New Jersey.  Our services include Gutter Lining, repair and maintenance. All our services are 100% *guaranteed.
 
  
@@ -58,9 +56,9 @@ Our services cover:
 
 ![](https://t3.ftcdn.net/jpg/02/68/59/82/240_F_268598237_g7IDwvh9ax9JLC01Up3HnEs3gTiwo3mK.jpg) <
 
-!--StartFragment-->
 
-<!--StartFragment-->
+
+
 
 **Customer Chimney NJ Reviews**
 
