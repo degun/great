@@ -443,28 +443,17 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
 
 <!--StartFragment-->
 
-New Jersey Counties We Service
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->BERGEN COUNTY NJ
 
-<!--\[if !supportLists]-->·        <!--\[endif]-->PASSAIC COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->HUDSON COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->MIDDLESEX COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->ESSEX COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->MORRIS COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->HUNTERDON COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->SOMERSET NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->SUSSEX COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->UNION COUNTY NJ
-
-<!--\[if !supportLists]-->·        <!--\[endif]-->WARREN COUNTY NJ
-
-<!--EndFragment-->
+**New Jersey Counties We Service**
+•	BERGEN COUNTY NJ
+•	PASSAIC COUNTY NJ
+•	HUDSON COUNTY NJ
+•	MIDDLESEX COUNTY NJ
+•	ESSEX COUNTY NJ
+•	MORRIS COUNTY NJ
+•	HUNTERDON COUNTY NJ
+•	SOMERSET NJ
+•	SUSSEX COUNTY NJ
+•	UNION COUNTY NJ
+•	WARREN COUNTY NJ
