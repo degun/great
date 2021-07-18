@@ -62,7 +62,9 @@ The Great Construction Company is one of the best, most reliable, and honest com
 
 <!--EndFragment-->
 
-— Robyn F. (Google Reviewer) ⭐️⭐️⭐️⭐️⭐️
+— Robyn F. 
+
+⭐️⭐️⭐️⭐️⭐️
 
 <!--EndFragment-->
 
@@ -72,7 +74,9 @@ The Great Construction Company is one of the best, most reliable, and honest com
 
 5 stars for The Great Construction Company. Dennis was a pleasure to coordinate with and Ben did a great job repairing our fireplace. Their prices are very fair.
 
-— KlEN V. (Home Advisor Reviewer)⭐️⭐️⭐️⭐️⭐️
+— KlEN V. 
+
+⭐️⭐️⭐️⭐️⭐️
 
 <!--EndFragment-->
 
@@ -80,7 +84,9 @@ The Great Construction Company is one of the best, most reliable, and honest com
 
 We have used several chimney sweep companies in the past and The Great Construction Company has been, by far, the very best. Excellent pricing, workmanship, promptness, leaving the area clean, and knowledge. Look no further, they are the BEST!!
 
-— Ben L. (Google Reviewer) ⭐️⭐️⭐️⭐️⭐️
+— Ben L. 
+
+ ⭐️⭐️⭐️⭐️⭐️
 
 <!--EndFragment-->
 
@@ -106,15 +112,13 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
 
 <!--EndFragment-->
 
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -153,9 +157,9 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -411,9 +415,9 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -439,11 +443,9 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
-
-
 
 **New Jersey Counties We Service**
 •	BERGEN COUNTY NJ
