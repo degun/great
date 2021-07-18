@@ -1,120 +1,94 @@
 ---
 title: Gutters
-metaDescription: The Great Construction offers certified, professional gutter services in New Jersey, including gutter cleaning, gutter installation, gutter repair & more. Call today +1 (201) 673-5638 for a quote!
+metaDescription: The Great Construction offers certified, professional gutter
+  services in New Jersey, including gutter cleaning, gutter installation, gutter
+  repair & more. Call today +1 (201) 673-5638 for a quote!
 date: 2021-05-24T15:40:35.232Z
 permalink: /services/gutters/
-image: /static/img/gutter.jpg
+image: /static/img/gutter-repair.jpg
 ---
-**Gutters** have one primary function. That is to divert rainwater away from the foundation and basement of your house. A good gutter system ensures that your home is protected from erosion and basement flooding.
+Gutter Cleaning, Gutter Repairs & Gutter Lining
+Residential & Commercial
+Gutter Services
 
-It also protects the landscaping that you have around your home. In addition, an effectively-designed gutter system prevents the growth of mildew and mold. Plus, it helps you maintain the curb appeal of your home by mitigating paint damage and preventing stains from its exteriors.
+Welcome to our professional gutter cleaning service for New Jersey, also providing gutter repair and gutter replacement work.
+Our staff have years of experience, we are one of New Jersey's favorite gutter cleaner services and can effectively and efficiently put right any guttering issues you might have. We also offer guttering, fascia & soffit repairs/replacement, pressure washing and a roof cleaning service. We can give free fast accurate quotes by phone and email or if necessary we will view the property to supply a quote free of charge. All our workers are fully uniformed and insured professionals ready to insure we can work safely at height with minimal risk.
+When cleaning gutters, we will remove all dirt and debris then flush downpipes, we also can supply pictures on request for your piece of mind and fix any minor leaks free of charge.
 
-Living in New Jersey means experiencing damaging ice dams in your downspouts and gutters, most especially if you fail to have your gutters regularly cleaned. So, when was the last time you had yours checked?
+Our gutter services include:
+·         Gutter Installation
+·         Gutter Repair
+·         Damaged Gutter Repair
+·         Gutter Lining
+·         Gutter Cleaning
+·         Downspout Installation
+·         Downspout Replacement
 
-With **The Great Construction Company**, you can be assured that we can help you design and maintain your gutters.
 
-### Types of Gutters
 
-There are basically two types of gutters, seamed and seamless.
+![gutter installation new jersey](/static/img/gutter-instalaltion.jpg)
 
-**Seamed/sectional gutters**
 
-These are gutters that you can purchase in pieces or sections. They are then patched or assembled using an adhesive or a snap system or both to make a gutter system. Usually, this type of gutter system comes in lengths of ten feet to twenty feet.
 
-This gutter system is easy-to-install and costs much less than the other system. However, they may not last as long, eventually leaking in a much shorter time.
+**Why Gutter Maintenance is Actually Really Important?**
 
-**Seamless gutters**
+<!--StartFragment-->
 
-This kind of gutter does not require fasteners or joints. It is made from just one piece of material and will run the whole length of your house. However, this means that the material has to be professionally cut to a precise length.
+[⚠️](https://emojikeyboard.org/copy/Warning_Sign_Emoji_%E2%9A%A0%EF%B8%8F) 75% of damaged property siding is caused by blocked gutter.
+<!--StartFragment-->
 
-The absence of seams ensures that leaks rarely occur. This also means a lesser amount of dirt and debris in the gutter, which in turn means lesser maintenance and upkeep costs.
+[⚠️](https://emojikeyboard.org/copy/Warning_Sign_Emoji_%E2%9A%A0%EF%B8%8F) Broken gutters lead to a basement flooding in50% of the cases.
+<!--StartFragment-->
 
-Seamless gutters are almost maintenance-free, especially when protected with gutter guards. They are also longer-lasting. What’s more, they add to the aesthetic value and curb appeal of your home.
+[⚠️](https://emojikeyboard.org/copy/Warning_Sign_Emoji_%E2%9A%A0%EF%B8%8F) Overflowing gutters are major reason for water damage and mould growth in the property.
 
-You can call on our gutter specialists for expert advice on what type of gutter system is best for your home.
+![gutter cleaning service](/static/img/gutter-cleaning.jpg)
 
-### Gutter Styles
 
-Three gutter styles are commonly found in most homes and buildings. These are:
 
-**K-style gutters**
 
-K-style gutters are the most popular style today. They are quick and easy to install and are very durable. They curve out at the bottom, thus, resembling a crown molding. Their cross-section looks like the letter “K”, hence the name.
 
-**Fascia gutters**
+**Customer Gutter NJ Reviews**
 
-This type of gutter is directly installed on the fascia board. They are larger than the other gutter styles, which make them compatible with larger roofs. They are perfect for areas with extreme weather and can hold up to severe storms and winds.
 
-**Half-round gutters**
+"My gutter was falling off my home and it needed repair. Saturday morning I saw good reviews about the Great Construction. When I called early Saturday morning Denis answered and said he would come down in the afternoon. He texted me that he was on his way and he was even early. Denis and Ben repaired my gutter for a fair price and also fixed a piece of my roofing that had come off from the wind. I would definitely recommend them. A job well done! Thank you!" -Valerie D.
 
-These are U-shaped gutters commonly used to give a historical appeal to your home or building. They have more complicated designs and can increase its curb appeal.
+<!--StartFragment-->
 
-### Gutter Materials
+⭐️⭐️⭐️⭐️⭐️
 
-We at **The Great Construction and Chimney** use quality gutter materials and products from our partner manufacturers and suppliers. These are covered by warranties to ensure that materials standards are met.
+<!--EndFragment-->
 
-**Copper gutters**
+"They came on time and gave me an estimate to repair a gutter. When the scheduled day came for the repair it was a downpour and they called to reschedule. They stayed in touch to confirm the appointment and arrived on time and did a wonderful job repairing the gutter. I would highly recommend this company." -Kath p.
 
-Copper is the favorite and commonly-used material, more so if you choose a seamless gutter system. They are corrosion-resistant, sturdy, and of high-quality. The extreme strength of copper gutters allows them to withstand falling debris, heavy and freezing rain, sleet, and snow.
+⭐️⭐️⭐️⭐️⭐️
 
-Why choose copper gutters? They are :
+"They did a great job repairing our gutters. They arrived when they said they would and cleaned up when the job was completed. I will definitely use them again in the future." Rich O.
 
-* Strong and sturdy
-* Durable and long-lasting
-* Aesthetically-pleasing
-* Corrosion-resistant (does not rust easily)
+⭐️⭐️⭐️⭐️⭐️
 
-**Aluminum gutters**
 
-Aluminum is the strongest material for gutters in the market. Aluminum gutters are less susceptible to damage, especially in cold weather. This type of gutter also is fully weather- and rust-proof.
 
-Plus, you can paint over your aluminum gutters. So, matching your gutter system to your home’s design is easy.
+We pride ourselves on being a small team focused on customer service and have built and maintain a strong reputation among a growing number of residential and commercial customers based on safety, trust, service, quality and competitively priced work.
+From the information you supply we can give residential customers an instant and accurate fixed price for gutter repairs by email.
 
-**Wood gutters**
 
-Wood gutters, though considered as an older type, are strong and look beautiful in your homes. They especially complement the historic value of your home and are great for restoration works.
+Our charges are very competitive and offer exceptional value for money. The price you are quoted is the price you will pay, there are no other hidden charges.
+Our gutter cleaning New Jersey staff are waiting for your call  +1 (201) 673-5638.
 
-**Vinyl gutters**
 
-Vinyl gutters are commonly used in today’s homes. They are also lightweight and cost the least compared to the other materials. Many sectional gutters in the market are made from vinyl. Thus, it has become a favorite among DIYers.
 
-This type of gutters, however, does not last as long as those made from aluminum or copper. They eventually become brittle over time.
+New Jersey Counties We Service
+•	BERGEN COUNTY NJ
+•	PASSAIC COUNTY NJ
+•	HUDSON COUNTY NJ
+•	MIDDLESEX COUNTY NJ
+•	ESSEX COUNTY NJ
+•	MORRIS COUNTY NJ
+•	HUNTERDON COUNTY NJ
+•	SOMERSET NJ
+•	SUSSEX COUNTY NJ
+•	UNION COUNTY NJ
+•	WARREN COUNTY NJ
 
-**Gutter guards**
-
-Gutter guards prevent clogging in your gutter system. They keep dirt and debris out. Thus, they reduce the need to clean your gutters.
-
-We at **The Great Construction Company** install and replace the following types of gutter guards:
-
-* Mesh/micro-mesh gutter guards
-* Screen gutter guards
-* Reverse curve gutter guards
-* Bottle-brush gutter guards
-* Foam gutter guards
-
-### Services
-
-We are one of the top gutter contractors in New Jersey. We at The Great Construction and Chimney provide the following services:
-
-**Gutter installation**
-
-A gutter system needs to be installed correctly for it to effectively and efficiently divert water away from your home or building. Our team of gutter installation specialists will install your gutter system correctly every time, in the most cost-efficient way possible and within schedule.
-
-**Gutter repair**
-
-Our repair services include:
-
-* **Repair of flashing eaves** which cause insect and termites infestation, dry and roof rot
-* **Correction of poor placement of downspouts** which leads to damage to your roof, foundation, and sidings. This also causes erosion.
-* **Correction of defective pitches** that cause damage to your sidings and support system
-* **Repair of leaks or holes** which could bring rainwater into your home or building leading to health problems for your family and damage to properties
-
-**Gutter cleaning and maintenance**
-
-Our gutter cleaning teams are trained to inspect, clean, and maintain all types of gutter systems so rainwater can smoothly flow down and away from your home or building. This also includes flushing of your downspout and removal of debris. We always use the right equipment for the job.
-
-Our gutter specialists will also give you tips on proper gutter maintenance.
-
-If you are looking for expert gutter repair specialists and installers in New Jersey, we at **The Great Construction Company** are your best bet.
-
-Using our services of our fully-insured gutter professionals will definitely leave you worry-free.**The Great Construction Company** is one of New Jersey's top Gutter Company and offers the best Gutter Cleaning at affordable prices. Gutter Cleaning starts at only $80.00. To set up your Gutter Cleaning Free Estimate or to schedule your Gutter Cleaning Services call now at +1 (201) 673-5638.
+![]()
