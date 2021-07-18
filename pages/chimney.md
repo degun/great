@@ -94,7 +94,7 @@ Also, each material used in the chimney design and construction are all certifie
 
 <!--StartFragment-->
 
-![a professional master covers the roof](https://as1.ftcdn.net/v2/jpg/02/35/30/52/1000_F_235305251_9ksyKyo9DKeYjcuO0TyXCLJSwmAKO30O.jpg)
+![a professional master covers the roof](/static/img/1000_f_235305251_9ksykyo9dkeyjcuo0tyxcljswmako30o.jpg)
 
 <!--EndFragment-->
 
