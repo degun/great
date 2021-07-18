@@ -1,80 +1,95 @@
 ---
 title: Roofing
 layout: layouts/page.njk
-metaDescription: We provide professional Roofing Services along with siding, roof repair, gutters, & more. Our experts have the skills and experience to make your roof great. Call today +1 (201) 673-5638 for a quote!
+metaDescription: We provide professional Roofing Services along with siding,
+  roof repair, gutters, & more. Our experts have the skills and experience to
+  make your roof great. Call today +1 (201) 673-5638 for a quote!
 date: 2021-05-24T15:03:50.002Z
 permalink: /services/roofing/
-image: /static/img/roofing.jpg
+image: /static/img/roof-contractors-near-me.jpg
 ---
-Your **roofing** is one of the most important aspects of your home. It protects your family and properties from the elements. It also provides you with natural light, the right insulation, and proper ventilation. In addition, a clean and aesthetically-pleasing roof can definitely add to your home’s curb appeal.
+Roof Services in New Jersey
+At The Great Construction Company, we know how important it is to have a quality and properly-installed roof. With more than 15 years of experience, our team of expert roofers can flawlessly repair, restore, replace or install the roofing of your choice. We know it’s difficult to determine the right roofing solution for your building, that’s why we offer several services to fit your roofing needs.
+Searching for residential roof repair near me? We're one of the areas leading New Jersey roofing companies. Our roof experts NJ specialize in shingle roofing, tile roofing, wood roofing, and flat roofing.
+Roofing NJ services include:
+•	Roof Replacements
+•	Roof Repair
+•	Roof Inspection
+•	Skylight Installation
+•	Storm Damage Restoration
+•	Roof Leak Damage Repair
+•	Skylight Repair 
+•	Skylight Replacement
+•	Emergency Roof Repair
 
-However, the roofing design and specifications have to comply with the building code and other regulations in your area. The wide array of roofing materials can also be daunting to the home or building owner. Whether it is a new installation, repair or restoration, you should work with a reliable contractor who can deliver prompt and professional services in the most cost-efficient manner possible.
+![](/static/img/roof-replacement-nj.jpg)
 
-We at **The Great Construction Company** can do all these and more.
+No matter if you are replacing your roof or fixing a repair on a damaged roof, at The Great Construction Company we have you covered. Our mission is to change the way home improvement companies are nowadays viewed in the industry. We want to make sure there are no more inconvenient or time-consuming roofing contractors, just good-ole honest communication and roofing workmanship. 
+And most importantly, we take full ownership of your project including an in-depth roof inspection before and after your project to ensure that you have complete peace-of-mind. To solve your roofing problems, we offer roof free estimates on any of our services. With over 15 years of experience and many of 5-star Google Reviews to back it up, choosing The Great Construction will be the best decision you make for your home.
 
-### Specialization
+It’s Time for a New Roof
+If you’re thinking it is time for a new roof, it’s important to consider the number of reasons why it might be in your best interest to replace the roof. It’s important to understand the different problems your roof may incur. For instance, are the shingles on your roof experiencing granular loss or do you have missing shingles? 
 
-At **The Great Construction Company**, we know how important it is to have a quality and properly-installed roof. With more than 15 years of experience, our team of expert roofers can flawlessly repair, restore, replace or install the roofing of your choice.
+![](/static/img/roof-repair-nj.jpg)
 
-We specialize in shingle roofing, tile roofing, wood roofing, and flat roofing.
+The most common roofing issues in New Jersey are:
+•	Roof Leaks
+•	Missing Shingles
+•	Shingle Granular Loss
+•	Ice damming
+•	Sagging Roof
+•	Excessive Algae/Moss Growth
+•	Poor Attic Ventilation
 
-We also provide you with expert technical advice so that you can make the most efficient and cost-effective decision for your **roofing** needs.
 
-### Our Roofing Services
 
-* **Free roof inspection**
+**Customer Roofing NJ Reviews**
 
-Do you have active **roof leaks**? Missing or curling shingles? Has it been a while since you’ve had your roof professionally inspected?
 
-We have professional roofers who can inspect the integrity and state of your roof. They can advise you on the current issues and possible problems that may arise, as well as the measures that you can take to avoid an emergency.
+ “I had a leak on my roof after a big storm this past week. My gutters were also damaged and they lost the pitch. They helped me fix the leak, they came within 24 hours, fixed the job within the next few days and they were very professional! I would definitely recommend them to my friends and family.” Mason Redwood  <!--StartFragment-->
 
-We can also do an interior inspection or an exterior inspection, or both, of your roof. We then recommend the measures that you need to take to prevent further problems.\
-Also, our **roofing** expert can advise you when and how to conduct maintenance activities.
+⭐️⭐️⭐️⭐️⭐️
 
-Through our 15 years of experience, our team of certified **roofing** specialists has gained the expertise to correctly and thoroughly assess your roof. Call us today for a free no-obligation inspection. Let **The Great Construction Company** help in solving your roofing problems on time and within budget.
+<!--EndFragment-->
 
-* **Free estimates**
 
-Our professional **roofers** will provide you with a free estimate of the materials, labor and other expenses for your project. We also include the implementation schedule and timelines.
+  “I was looking for roofers near me and I found The Great Construction, the best roofing company nj. Work team started early and completed the project in a day. Spent at least 2 hrs cleaning up area to make sure no nails were left behind. Great crew and would welcome them back anytime!” -Ron D.  <!--StartFragment-->
 
-We prefer to give you the estimates in person. Our certified **roofing** specialist will sit down with you to present the estimates and the options that are available to you. He can readily answer your questions on how roofing is done and which roofing material is the best. He can also advise you on what roofing material is energy-efficient or which types last the longest. He can readily answer your questions and concerns.
+⭐️⭐️⭐️⭐️⭐️
 
-* **Roof installation and replacement**
+<!--EndFragment-->
 
-Our well-trained **roofing** specialists can complete the job on time and within budget. We provide the best roofing solutions in New Jersey for residential, commercial, and industrial structures. We are fully licensed and insured for a worry-free implementation of your roofing project.
 
-We will also regularly update you on the status of your project. In this way, you will know that we are closely adhering to your requirements and specifications, as well as the schedules.
+  “They got our large roof project done in two days with quality materials. A piece of crown molding got broken, but their carpenter repaired it perfectly. I’ve been in contracting for thirty five years and I would use them again for another roofing project in a heartbeat.” -Greg L.  <!--StartFragment-->
 
-* **Roof leak damage repair**
+⭐️⭐️⭐️⭐️⭐️
 
-We at **The Great Construction Company** guarantee that we can stop roof leaks and damages. We understand the serious damage that a leak can pose to your health and home or building. Thus, it is imperative to fix your roof at the earliest possible time.
 
-Our professional **roof leak repai**r team responds and works quickly, even for emergency repairs. Our services include repair of roof flashing, fascia, roof plywood, and wood rot, among many others.
 
-We also provide **roof tarp installation** and **roof replacement services**.
+<!--EndFragment-->
 
-You will definitely have peace of mind when working with one of the **best roof leak repair professionals** in New Jersey.
 
-* **Skylight repair and replacement**
 
-**The Great Construction Company** is also the skylight professional in New Jersey that you can definitely rely on. If you need a new skylight installed, replaced or repaired, then we are more than ready to come to your assistance.
+**RELIABLE ROOFING REPAIR**
 
-Our specialists provide expert advice on the proper timing of replacing or repairing your skylights. Plus, we see to it that we show you the most cost-effective way of doing it. We also present the different types of skylights suited to your roof so you can make the right choice.
 
-* **Emergency roof repair**
+Our team of experts can evaluate your roofing situation, come up with the best repair plan, and get your roof fixed quickly. <!--StartFragment-->
 
-You can call on us anytime, 24/7, for your **emergency roof repair** needs in New Jersey. The Great Construction and Chimney’s roofing specialists are ready to take action to ensure that your problem will be addressed as quickly as possible. You can be assured in knowing that your family and your home or your building are well-protected.
+ Call us for a free estimate +1 (201) 673-5638.
 
-### Quality Materials
+<!--EndFragment-->
 
-**The Great Construction and Chimney** are the roofing experts in New Jersey. We use a wide variety of quality materials suited to the New Jersey weather. Plus, We see to it that these materials meet the quality standards of ASTM International (the former American Society for Testing and Materials) as well as other regulatory bodies.
 
-We are proud to say that we work in partnership with the industry’s most reliable and trusted manufacturers. So we use only the highest quality products for your roofing project.
 
-### Warranty
-
-We offer the best product warranties for your roofing project. We at **The Great Construction Company** see to it that all the materials we use are covered by warranties to keep you protected. These warranties ensure that your newly-installed roofing system is protected and free from manufacturing defects or flaws.
-
-So, have peace of mind and keep your family, valuables, and properties safe and well-protected. We at The Great Construction and Chimney can guarantee that we install your roofing flawlessly. All these with an added bonus of increased curb appeal.
-
-We see to it that this is done within your budget and on time. What’s more, we make you a part of the whole roofing process.
+New Jersey Counties We Service
+•	BERGEN COUNTY NJ
+•	PASSAIC COUNTY NJ
+•	HUDSON COUNTY NJ
+•	MIDDLESEX COUNTY NJ
+•	ESSEX COUNTY NJ
+•	MORRIS COUNTY NJ
+•	HUNTERDON COUNTY NJ
+•	SOMERSET NJ
+•	SUSSEX COUNTY NJ
+•	UNION COUNTY NJ
+•	WARREN COUNTY NJ
