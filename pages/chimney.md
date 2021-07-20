@@ -10,10 +10,6 @@ image: /static/img/1000_f_173897207_1oulcqjg7qc4ptabwvk0cn4ekq269sl0.jpg
 ---
 **We Sweep, Repair & Install Chimneys in New Jersey**
 
-The Great Construction clean and repair all types of residential guttering in New Jersey.  Our services include Gutter Lining, repair and maintenance. All our services are 100% *guaranteed.
-
-We Sweep, Repair & Install Chimneys in New Jersey
-
 Chimneys are complex structures that need professionals who can build and install it properly. Furthermore, it can be damaged over time through wear and tear. Without proper maintenance, serious problems can arise. We at The Great Construction Company offer chimney repair for all parts of your chimney and more.
 
 <!--StartFragment-->
@@ -29,6 +25,8 @@ Our chimney contractors can take care of all your chimney needs.
 Our services cover:
 
 • Chimney Inspection
+
+• Chimney Liner Installation
 
 • Chimney Repair
 
@@ -112,13 +110,13 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -157,9 +155,9 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -415,9 +413,9 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -443,7 +441,7 @@ The Chimney Safety Institute of America (CSIA) recommends all homeowners have an
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
