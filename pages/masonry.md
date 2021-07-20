@@ -1,95 +1,115 @@
 ---
 title: Masonry
-metaDescription: The Great Construction is a full service masonry contractor offering high quality work & customer service in New Jersey. We do all types of masonry repair, masonry construction & masonry restoration. Call today +1 (201) 673-5638 for a quote!
+metaDescription: The Great Construction is a full service masonry contractor
+  offering high quality work & customer service in New Jersey. We do all types
+  of masonry repair, masonry construction & masonry restoration. Call today +1
+  (201) 673-5638 for a quote!
 date: 2021-05-24T15:47:01.189Z
 permalink: /services/masonry/
-image: /static/img/sidewalk.png
+image: /static/img/masonry-contractors-new-jersey.webp
 ---
+<!--StartFragment-->
 
+**STONE EXPERTS -Bringing Beauty To Your Building**
 
-**The Great Construction Company** offers both decorative and structural masonry services. We cater to commercial and residential clients. Our team of experts has undergone rigorous training to deliver quality service. From designing, overseeing, construction, on-site management, and until the project is completed, we make sure to pay close attention to details to ensure that we only give you, our clients, the best.
-
-### Our Services
+The Great Construction Company offers both decorative and structural masonry services. We cater to commercial and residential clients. Our team of experts has undergone rigorous training to deliver quality service. From designing, overseeing, construction, on-site management, and until the project is completed, we make sure to pay close attention to details to ensure that we only give you, our clients, the best.
 
 There are a lot of problems that might arise when the masonry job is not done properly. It can cause leaking, cracking and many more that can pile up and lead you to spend more than you should. Good masonry work can make your home or building durable, strong, and weather-proof.
 
 Furthermore, when done properly, you won’t have to do a lot of maintenance. Masonry may be an old trade but we use the latest technology to ensure that all the projects are finished with the highest quality.
 
-With **The Great Construction Company**, you can be sure that our highly-trained masonry experts can do the job perfectly. Our quality of work and customer service are some of the reasons why we are the top masonry contractors in New Jersey.
+With The Great Construction Company in New Jersey, you can be sure that our highly-trained masonry experts can do the job perfectly. Our quality of work and customer service are some of the reasons why we are the top masonry contractors in New Jersey.
 
-Here are the services we offer, so don’t hesitate to contact us for a free quote. 
 
-**Stone construction**
 
-We offer stone masonry construction. We mainly use mortar and stone of your choice. This is a great option for those who are looking to have a strong foundation for your homes. Plus, you can have aesthetically pleasing and durable stone floors, walls, columns, and even arches. 
 
-**Concrete construction**
 
-With more than 25 years of experience, our masonry professionals have developed the perfect blend for the most durable concrete. Coupled with cutting-edge engineering, you can trust that with us, your home will last for generations.
+**The Great Construction Company offer a wide range of services within the stone masonry industry:**
 
-**Brickwork and Stonework**
+* Masonry Restoration
+* Stone Construction
+* Stone Restoration
+* Natural Stone Floors
+* Natural Stone Facades
+* Natural Stone Steps
+* Bathrooms
+* Kitchen and Bathroom Worktops
+* Staging
+* Repointing
+* Brick Replacement
+* Sandblasting
+* Caulking
+* Waterproofing
+* Painting
+* Building Restoration
+* Smoke Stack Restoration
 
-We at **The Great Construction Company** are proud to say that we have successfully worked with countless satisfied customers. We offer installation of new stone and brickwork for your homes, shops, and other commercial spaces.
+![masonry restoration new jersey](/static/img/masonry-retoration-new-jersey.jpg)
 
-Our masonry professionals can also construct a new custom fireplace and update existing stone or brickwork. We have a variety of styles and designs that will definitely suit your preferences as well.
+Some of our most common projects consist of chimney and fireplace services. Chimney repair is not an easy task to take on yourself – hire professionals to come in and repair your chimney the right way. We have a wealth of experience in chimney repair and will be able to determine what is wrong quickly so we can get everything back running smoothly.
 
-**Masonry Restoration and Other Masonry Services**
+![masonry contractors near me](/static/img/masonry-workers.jpg)
 
-Do you have a brick or stonework that you would like to restore to its original beauty? We at **The Great Construction Company** can restore any type of masonry work to its former glory and maybe even better.
+Customer Siding NJ Reviews
 
-Have you also have your masonry repaired but the problem is it does not match the original design or maybe you are not happy with how it turned out? We also provide masonry staining services. This service can be applied to entire walls and to even individual stones or bricks. We also offer graffiti removal from any masonry buildings. 
+We are beyond impressed with the professionalism and workmanship of The Great Construction Company.  From our initial call for an estimate, to project completion, they have consistently demonstrated why they have the right experience. Our project involved the placement of new stonework alongside 11 year old stonework and it couldn't have been more beautifully done.  Denis and his team took their time, carefully selecting the stones, their placement, and the mortar to match the existing stonework.  They were here when they said they were going to be here and they cleaned up when they were done.  That is a rarity these days.  If you want to ensure that your project receives the time and attention it deserves, look no further that The Great Construction Company. You won't be disappointed! -Jonh B.
 
-### Materials That We Work With
+<!--StartFragment-->
 
-When choosing materials for our projects, we see to it that we only use the best. We offer a full line of self-maintaining masonry units. All of these can strengthen and further add to your home or building’s curb appeal. Each one has been thoroughly checked to ensure that it meets quality standards.
+⭐️⭐️⭐️⭐️⭐️
 
-Plus, we also use masonry materials like sand, cement, reinforced concrete runners and other materials from our reputable and reliable partners and suppliers.
+<!--EndFragment-->
 
-**Brick**
+Denis and Ben were very communicative and cooperative. Their crew worked diligently to complete our lakefront stone retaining wall and connecting pavers sidewalk in a timely and efficient manner. The price was reasonable, and we are extremely pleased with the end result. Highly recommend them! -Linda C.
 
-Bricks have always been loved because it does not only give you a beautiful finish but it is durable as well. It has always been usually preferred masonry material throughout the years. Bricks are fire-resistant and energy-efficient. They can also withstand strong winds and rain.
+<!--StartFragment-->
 
-Bricks include
+⭐️⭐️⭐️⭐️⭐️
 
-* Burnt clay bricks
-* Clay bricks (Sun-dried or unburnt)
-* Sand lime bricks
-* Concrete bricks
-* Fly ash bricks
-* Engineering bricks
+<!--EndFragment-->
 
-We at **The Great Construction and Chimney** use a variety of top quality bricks for our projects. You also have plenty of options to choose from. Our experts can also help you decide which type of brick is best. 
+The Great Construction Company was first recommended to us by one of my friends.  Denis expertly completed the stacked stone work in those two rooms, and has since built our grill center by the pool house, as well as done all maintenance and construction of additional brick and limestone landscape walls surrounding our modern home. 
 
-**Stone**
+Denis and Ben team experience, craftsmanship, trustworthiness and reliability set them and their crew apart, making The Great Construction an excellent choice for any type of masonry job you may have.  Highly recommended! -Susan h.
 
-Using stone masonry offers you a lot of advantages. Just like brick, stone is extremely durable, bug- and fire-proof, and moisture resistant. It is also maintenance-free. A well-constructed stone structure can stand the tests and time and last for centuries.
+<!--StartFragment-->
 
-Our line of stone masonry units are very attractive and come in a variety of colors. Use your imagination and play with the colors for an aesthetically-pleasing wall, pavement, or steps of your home.
+⭐️⭐️⭐️⭐️⭐️
 
-**Stucco**
+<!--EndFragment-->
 
-Stucco is a very sturdy building material. It is very dense and highly resistant to fire, wind, snow, and rain. It also gives a decorative finish to the walls and other surfaces of your home or building. 
+Our ability to source and coordinate fabrication and installation ensures that our stone projects are built to the highest standards of workmanship and efficiency.
 
-**Marble**
+Get a FREE estimate and an on-site inspection for any service. Our company has 15+ years of experience in the masonry industry, so you are sure to get quality work from us.
 
-Add elegance to your space and choose one of the most beautiful masonry materials there is. Marble’s unique patterns, colors, and other characteristics make it the best choice for both homes and offices. Although it may be a bit porous, it can definitely improve the look of any room.
+Contact one of our New Jersey masonry specialists today **+1 (201) 673-5638.**
 
-Our team of masonry specialists can repair, install, and restore the marble of your choice.
 
-**Concrete**
 
-Wall can be constructed easily and quickly with concrete blocks. They provide good insulation, thus, reducing utility and electricity costs.
+**New Jersey Counties We Service**
 
-**Cement**
+• BERGEN COUNTY NJ
 
-Many have had a misconception that cement and concrete are the same. But did you know that cement is only an ingredient in concrete and acts as its binder? With that said, for more than 25 years, our masonry experts have developed the perfect blend for a strong and durable cement mix.
+• PASSAIC COUNTY NJ
 
-We use both type N and S cement from only the most reputable brands. We also ensure that these conform to international standards.
+• HUDSON COUNTY NJ
 
-Our fully-insured team of masonry specialists uses the right equipment for the job to ensure that the job is properly correctly implemented.\
-\
-We at **The Great Construction Company** have been providing professional and affordable services in the New Jersey area for more than 15 years now. Our team of masonry experts has undergone rigorous training on all aspects of masonry construction and repair. Our specialists pay strict attention to detail and make sure to keep our communication lines open in every step of the project.
+• MIDDLESEX COUNTY NJ
 
-Your satisfaction is our goal, so be rest assured that we can stay on time and within your budget.
+• ESSEX COUNTY NJ
 
-We offer competitive but affordable prices. So choose us now. Contact us for free a quote on your project. We at **The Great Construction Company** are excited to work with you.
+• MORRIS COUNTY NJ
+
+• HUNTERDON COUNTY NJ
+
+• SOMERSET NJ
+
+• SUSSEX COUNTY NJ
+
+• UNION COUNTY NJ
+
+• WARREN COUNTY NJ
+
+
+
+<!--EndFragment-->
