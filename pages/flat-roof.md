@@ -19,11 +19,7 @@ Choosing the type of flat roofing system for a structure, whether it’s for you
 
 At The Great Construction Company, you are guaranteed to have quality built flat roofs and professional contractors that will be with you every step of the way.
 
-
-
 **Flat Roofing Services New Jersey include:**
-
-
 
 * Flat Roof Inspection
 * Flat Roof Estimate
@@ -33,7 +29,7 @@ At The Great Construction Company, you are guaranteed to have quality built flat
 * Flat Roof Replacement
 * Flat Roof Cleaning
 
-![flat roof replacement new jersey](/static/img/flat-roof-installation.jpg)
+![flat roof replacement new jersey](/static/img/flat-rooffff.jpg)
 
 **Fast and reliable roofing service that delivers transformative and lasting results.**
 
@@ -46,11 +42,7 @@ Installing or maintaining a flat roof at home has never been easier! Our skilled
 
 Never worry about your business’ flat roof again with the help of our roofing experts. We can carry out large-scale installation and maintenance for schools, leisure centers and more!
 
-
-
 ![flat roof repair](/static/img/flat-roof-repair.jpg)
-
-
 
 **Customer Flat Roofing NJ Reviews**
 
@@ -66,21 +58,15 @@ Never worry about your business’ flat roof again with the help of our roofing 
 
 ⭐️⭐️⭐️⭐️⭐️
 
-
-
 Professionals from The Great Construction Company install only the best quality flat roof coating that will definitely solve any flat roof problems that you may have. Although flat roofs are much more affordable and more durable than any other roofing solution, it is still prone to a few problems.
 
 However, with us, you will be sure that all your flat roofing problems will be fixed. We use watertight roof coating systems that are both effective and well within anyone’s budget. We also repair and restore EPDM or rubber roofs, elastomeric, PVC, and TPO roofs.
 
 What’s more, we can also repair asphalt roofs as well. So, don’t hesitate to contact us. We would be glad to work on your project
 
-
-
 Get a FREE estimate and an on-site inspection for any service. Our company has 15+ years of experience in the roofing industry, so you are sure to get quality work from us.
 
 Contact one of our New Jersey masonry specialists today **+1 (201) 673-5638.**
-
-
 
 **New Jersey Counties We Service**
 
@@ -105,7 +91,5 @@ Contact one of our New Jersey masonry specialists today **+1 (201) 673-5638.**
 • UNION COUNTY NJ
 
 • WARREN COUNTY NJ
-
-
 
 <!--EndFragment-->
