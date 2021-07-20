@@ -10,13 +10,10 @@ image: /static/img/roof-contractors-near-me.jpg
 ---
 **Roof Services in New Jersey**
 
-
 At The Great Construction Company, we know how important it is to have a quality and properly-installed roof. With more than 15 years of experience, our team of expert roofers can flawlessly repair, restore, replace or install the roofing of your choice. We know it’s difficult to determine the right roofing solution for your building, that’s why we offer several services to fit your roofing needs.
 Searching for residential roof repair near me? We're one of the areas leading New Jersey roofing companies. Our roof experts NJ specialize in shingle roofing, tile roofing, wood roofing, and flat roofing.
 
-
 **Roofing Services New Jersey include:**
-
 
 •	Roof Replacements
 •	Roof Repair
@@ -35,15 +32,13 @@ And most importantly, we take full ownership of your project including an in-dep
 
 **It’s Time for a New Roof!**
 
-
 If you’re thinking it is time for a new roof, it’s important to consider the number of reasons why it might be in your best interest to replace the roof. It’s important to understand the different problems your roof may incur. For instance, are the shingles on your roof experiencing granular loss or do you have missing shingles? 
-
-
 
 ![](/static/img/roof-repair-nj.jpg)
 
-The most common roofing issues in New Jersey are:
 
+
+**The most common roofing issues in New Jersey are:**
 
 •	Roof Leaks
 •	Missing Shingles
