@@ -68,15 +68,28 @@ If you’re thinking it is time for a new roof, it’s important to consider the
 
 <!--EndFragment-->
 
-**RELIABLE ROOFING REPAIR**
 
-Our team of experts can evaluate your roofing situation, come up with the best repair plan, and get your roof fixed quickly. <!--StartFragment-->
+
+**Work With a Licensed and Insured Roofer Today**
+
+If you’re looking for a reliable roofer that takes calls 24/7, contact Universal Construction at +1 (201) 673-5638 to get started. 
+
+
+**Our values are:**
+
+
+• Top-notch work at reasonable prices
+• Honest and reasonable pricing
+• Timely and high quality work
+• Personable and quality customer service
 
  Call us for a free estimate +1 (201) 673-5638.
 
 <!--EndFragment-->
 
 **New Jersey Counties We Service**
+
+
 •	BERGEN COUNTY NJ
 •	PASSAIC COUNTY NJ
 •	HUDSON COUNTY NJ
