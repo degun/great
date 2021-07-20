@@ -10,7 +10,9 @@ image: /static/img/masonry-contractors-new-jersey.webp
 ---
 <!--StartFragment-->
 
-**STONE EXPERTS -Bringing Beauty To Your Building**
+**STONE EXPERTS** 
+
+**Bringing Beauty To Your Building**
 
 The Great Construction Company offers both decorative and structural masonry services. We cater to commercial and residential clients. Our team of experts has undergone rigorous training to deliver quality service. From designing, overseeing, construction, on-site management, and until the project is completed, we make sure to pay close attention to details to ensure that we only give you, our clients, the best.
 
