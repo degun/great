@@ -12,9 +12,7 @@ image: /static/img/siding-experts.jpg
 Your home or building’s functionality may be one of the important factors, but you should also take note of how it looks as well. Whether you plan to sell your property or not, your building’s exterior will definitely increase its value. So, boost your home or building’s curb appeal with our great sidings at The Great Construction Company.
 For more than 15 years, thousands of home and building owners have been satisfied with the quality of the siding service that we provide. When you choose us, you can be sure to get quality workmanship and only the best sidings service estimates.
 
-
 **Our Siding Services New Jersey include:**
-
 
 •	Siding Installation
 •	Siding Repair
@@ -39,7 +37,7 @@ Vinyl is one of the most popular types of sidings that we have installed over th
 What’s more, our company only uses the best type of vinyl siding. In addition, there are also a variety of styles that you can choose from.
 Ultimately, it’s your home, and you should be able to take pride in its exterior. We’ll listen to suggestions and find a way to meet your siding needs.
 
-![siding contractors near me](/static/img/siding-instalaltion.jpg)
+![siding contractors near me](/static/img/new-vinly-siding-installation-2-.jpeg)
 
 **Customer Siding NJ Reviews**
 
