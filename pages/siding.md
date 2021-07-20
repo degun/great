@@ -37,7 +37,7 @@ Vinyl is one of the most popular types of sidings that we have installed over th
 What’s more, our company only uses the best type of vinyl siding. In addition, there are also a variety of styles that you can choose from.
 Ultimately, it’s your home, and you should be able to take pride in its exterior. We’ll listen to suggestions and find a way to meet your siding needs.
 
-![siding contractors near me](/static/img/siding-work.jpg)
+![siding contractors near me](/static/img/siding-contractors-njjpg.jpg)
 
 **Customer Siding NJ Reviews**
 
