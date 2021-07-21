@@ -14,7 +14,7 @@
     }   
 }
 
-#single-project{ 
+.single-project{ 
     padding: 60px calc((100% - 1220px)/2);
 } 
 
@@ -37,7 +37,7 @@
  }
 
  @media (max-width: 1220px) {
-     #single-project {
+     .single-project {
         padding: 60px 5%;
      }
 

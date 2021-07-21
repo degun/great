@@ -9,13 +9,13 @@
     <div class="column links">
       <h2>Our services</h2>
         {% for service in pages[2].children %}
-          <a href="{{service.route | url}}#content" {% if service.route == page.url %} class="current" {% endif %}>{{ service.name }}</a>
+          <a href="{{service.route | url}}" {% if service.route == page.url %} class="current" {% endif %}>{{ service.name }}</a>
         {% endfor %}
     </div>
     <div class="column links">
       <h2>Quick links</h2>
       {% for p in pages %}
-        <a href="{{p.route | url}}#content" {% if p.route == page.url %} class="current" {% endif %}>{{ p.name }}</a>
+        <a href="{{p.route | url}}" {% if p.route == page.url %} class="current" {% endif %}>{{ p.name }}</a>
       {% endfor %}
     </div>
     <div class="column">
@@ -38,3 +38,6 @@
     &copy; 2021 - present: The Great Construction Company
   </div>
 </footer>
+<script type="text/javascript">
+  document.getElementById('content').scrollIntoView();
+</script>

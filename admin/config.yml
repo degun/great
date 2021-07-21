@@ -36,6 +36,7 @@ collections:
       - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
 
   - name: "testimonials"
     label: "Testimonial"
