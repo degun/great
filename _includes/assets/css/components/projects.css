@@ -20,7 +20,6 @@
     grid-auto-rows: auto;
     grid-gap: 32px;    
     padding: 60px calc((100% - 1220px)/2) 120px;
-
 } 
 
 .project {
