@@ -7,7 +7,7 @@ metaDescription: The Great Construction is a full service masonry contractor
 date: 2021-05-24T15:47:01.189Z
 permalink: /services/masonry/
 image: /static/img/masonry-contractors-new-jersey.webp
-yoast_keyword: masonry
+yoast_keyword: " "
 ---
 <!--StartFragment-->
 
