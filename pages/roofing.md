@@ -54,7 +54,7 @@ If you’re thinking it is time for a new roof, it’s important to consider the
 
 <!--EndFragment-->
 
-  “I was looking for roofers near me and I found The Great Construction, the best roofing company nj. Work team started early and completed the project in a day. Spent at least 2 hrs cleaning up area to make sure no nails were left behind. Great crew and would welcome them back anytime!” -Ron D.  <!--StartFragment-->
+  “I was looking for roofers near me and I found The Great Construction, the best roofing company nj. Work team started early and completed the project in a day. Spent at least 2 hrs. cleaning up area to make sure no nails were left behind. Great crew and would welcome them back anytime!” -Ron D.  <!--StartFragment-->
 
 ⭐️⭐️⭐️⭐️⭐️
 
