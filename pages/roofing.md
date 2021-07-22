@@ -36,8 +36,6 @@ If you’re thinking it is time for a new roof, it’s important to consider the
 
 ![](/static/img/roof-repair-nj.jpg)
 
-
-
 **The most common roofing issues in New Jersey are:**
 
 •	Roof Leaks
@@ -68,15 +66,11 @@ If you’re thinking it is time for a new roof, it’s important to consider the
 
 <!--EndFragment-->
 
-
-
 **Work With a Licensed and Insured Roofer Today**
 
-If you’re looking for a reliable roofer that takes calls 24/7, contact Universal Construction at +1 (201) 673-5638 to get started. 
-
+If you’re looking for a reliable roofer that takes calls 24/7, contact The Great Construction at +1 (201) 673-5638 to get started. 
 
 **Our values are:**
-
 
 • Top-notch work at reasonable prices
 • Honest and reasonable pricing
@@ -88,7 +82,6 @@ If you’re looking for a reliable roofer that takes calls 24/7, contact Univers
 <!--EndFragment-->
 
 **New Jersey Counties We Service**
-
 
 •	BERGEN COUNTY NJ
 •	PASSAIC COUNTY NJ
