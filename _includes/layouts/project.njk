@@ -13,7 +13,8 @@ section: project
 
   <div class="images">
     {% for image in images %}
-      {% img image | replace("/static", "./static"), "page-image", "{{ project.title }}", "", [400], "animation-delay: {{ loop.index0 * 100 }}" %}
+      
+      {% img image | replace("/static", "./static"), "page-image", "" + title + "", "", [400], "animation-delay: " + loop.index0 * 100 + "ms" %}
     {% endfor %}
   </div>
   
