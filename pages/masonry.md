@@ -25,13 +25,13 @@ With The Great Construction Company in New Jersey, you can be sure that our high
 
 **The Great Construction Company offer a wide range of services within the stone masonry industry:**
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -70,9 +70,9 @@ With The Great Construction Company in New Jersey, you can be sure that our high
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -328,9 +328,9 @@ With The Great Construction Company in New Jersey, you can be sure that our high
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -356,7 +356,7 @@ With The Great Construction Company in New Jersey, you can be sure that our high
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -386,13 +386,23 @@ Fireplace Repair
 
 <!--EndFragment-->
 
+
+
+
+
 ![masonry restoration new jersey](/static/img/concrete-sidewalk-installation.jpeg)
+
+
 
 Some of our most common projects consist of chimney and fireplace services. Chimney repair is not an easy task to take on yourself – hire professionals to come in and repair your chimney the right way. We have a wealth of experience in chimney repair and will be able to determine what is wrong quickly so we can get everything back running smoothly.
 
+
+
 ![masonry contractors near me](/static/img/construction-company-gutter-installation-nj.jpeg)
 
-Customer Siding NJ Reviews
+
+
+**Customer Siding NJ Reviews**
 
 We are beyond impressed with the professionalism and workmanship of The Great Construction Company.  From our initial call for an estimate, to project completion, they have consistently demonstrated why they have the right experience. Our project involved the placement of new stonework alongside 11 year old stonework and it couldn't have been more beautifully done.  Denis and his team took their time, carefully selecting the stones, their placement, and the mortar to match the existing stonework.  They were here when they said they were going to be here and they cleaned up when they were done.  That is a rarity these days.  If you want to ensure that your project receives the time and attention it deserves, look no further that The Great Construction Company. You won't be disappointed! -Jonh B.
 
