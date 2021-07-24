@@ -15,13 +15,13 @@ Searching for residential roof repair near me? We're one of the areas leading Ne
 
 **Roofing Services New Jersey include:**
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ Searching for residential roof repair near me? We're one of the areas leading Ne
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -318,9 +318,9 @@ Searching for residential roof repair near me? We're one of the areas leading Ne
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -346,7 +346,7 @@ Searching for residential roof repair near me? We're one of the areas leading Ne
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -378,9 +378,6 @@ Skylight Repair
 
 <!--EndFragment-->
 
-
-
-
 ![](/static/img/roof-replacement-nj.jpg)
 
 No matter if you are replacing your roof or fixing a repair on a damaged roof, at The Great Construction Company we have you covered. Our mission is to change the way home improvement companies are nowadays viewed in the industry. We want to make sure there are no more inconvenient or time-consuming roofing contractors, just good-ole honest communication and roofing workmanship. 
@@ -390,7 +387,7 @@ And most importantly, we take full ownership of your project including an in-dep
 
 If you’re thinking it is time for a new roof, it’s important to consider the number of reasons why it might be in your best interest to replace the roof. It’s important to understand the different problems your roof may incur. For instance, are the shingles on your roof experiencing granular loss or do you have missing shingles? 
 
-![](/static/img/roof-repair-nj.jpg)
+![](/static/img/best-roofing-contactors-near-me-newjersey.jpeg)
 
 **The most common roofing issues in New Jersey are:**
 
