@@ -15,13 +15,13 @@ When cleaning gutters, we will remove all dirt and debris then flush downpipes, 
 
 **Our Gutter Services New Jersey include:**
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ When cleaning gutters, we will remove all dirt and debris then flush downpipes, 
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -318,9 +318,9 @@ When cleaning gutters, we will remove all dirt and debris then flush downpipes, 
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -346,7 +346,7 @@ When cleaning gutters, we will remove all dirt and debris then flush downpipes, 
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -378,6 +378,8 @@ Damaged Gutter Repair
 
 ![gutter installation new jersey](/static/img/gutter-instalaltion.jpg)
 
+
+
 **Why Gutter Maintenance is actually really important?**
 
 <!--StartFragment-->
@@ -392,7 +394,15 @@ Damaged Gutter Repair
 
 [⚠️](https://emojikeyboard.org/copy/Warning_Sign_Emoji_%E2%9A%A0%EF%B8%8F) Overflowing gutters are major reason for water damage and mould growth in the property.
 
+
+
+
+
 ![gutter cleaning service](/static/img/gutter-cleaning-near-me.jpeg)
+
+
+
+
 
 **Customer Gutter NJ Reviews**
 
