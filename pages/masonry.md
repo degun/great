@@ -23,15 +23,19 @@ Furthermore, when done properly, you won’t have to do a lot of maintenance. Ma
 
 With The Great Construction Company in New Jersey, you can be sure that our highly-trained masonry experts can do the job perfectly. Our quality of work and customer service are some of the reasons why we are the top masonry contractors in New Jersey.
 
-**The Great Construction Company offer a wide range of services within the stone masonry industry:**
+<!--StartFragment-->
 
-<!--\\[if gte mso 9]><xml>
+**Masonry Services New Jersey include:**
+
+<!--EndFragment-->
+
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -70,9 +74,9 @@ With The Great Construction Company in New Jersey, you can be sure that our high
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -328,9 +332,9 @@ With The Great Construction Company in New Jersey, you can be sure that our high
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -356,7 +360,7 @@ With The Great Construction Company in New Jersey, you can be sure that our high
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -386,21 +390,11 @@ Fireplace Repair
 
 <!--EndFragment-->
 
-
-
-
-
 ![masonry restoration new jersey](/static/img/concrete-sidewalk-installation.jpeg)
-
-
 
 Some of our most common projects consist of chimney and fireplace services. Chimney repair is not an easy task to take on yourself – hire professionals to come in and repair your chimney the right way. We have a wealth of experience in chimney repair and will be able to determine what is wrong quickly so we can get everything back running smoothly.
 
-
-
 ![masonry contractors near me](/static/img/construction-company-gutter-installation-nj.jpeg)
-
-
 
 **Customer Siding NJ Reviews**
 
