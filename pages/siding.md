@@ -14,13 +14,13 @@ For more than 15 years, thousands of home and building owners have been satisfie
 
 **Our Siding Services New Jersey include:**
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ For more than 15 years, thousands of home and building owners have been satisfie
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -317,9 +317,9 @@ For more than 15 years, thousands of home and building owners have been satisfie
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -345,7 +345,7 @@ For more than 15 years, thousands of home and building owners have been satisfie
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -375,13 +375,21 @@ Brick Veneer Siding
 
 <!--EndFragment-->
 
+
+
+
+
 ![siding installation experts new jersey](/static/img/masonry-siding-repair-construction-company-new-jersey.jpeg)
+
+
 
 **The importance of siding**
 
 The primary purpose of siding is to protect your home from rain, heat, snow, wind and heavy storms. Siding also acts as insulation for your home by keeping the heat inside and cold outside.
 Investing in siding can add curb appeal to your home and make it look new again.
 Proper siding installation is the best way to ensure that your siding provides your home with long-lasting protection. The Great Construction Company delivers quality craftsmanship on every siding project.
+
+
 
 **Get the look you want!**
 
@@ -391,7 +399,15 @@ Vinyl is one of the most popular types of sidings that we have installed over th
 What’s more, our company only uses the best type of vinyl siding. In addition, there are also a variety of styles that you can choose from.
 Ultimately, it’s your home, and you should be able to take pride in its exterior. We’ll listen to suggestions and find a way to meet your siding needs.
 
+
+
+
+
 ![siding contractors near me](/static/img/aluminum-siding-repair-paint.jpeg)
+
+
+
+
 
 **Customer Siding NJ Reviews**
 
