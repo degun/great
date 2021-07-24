@@ -51,3 +51,15 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", default: ["testimonial"] }
 
+
+  - name: "heads"
+    label: "Head"
+    folder: "heads"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Subtitle", name: "subtitle", widget: "string" }
+      - { label: "Link text", name: "linktext", widget: "string" }
+      - { label: "Link path", name: "path", widget: "string" }
+

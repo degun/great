@@ -1,8 +1,8 @@
-<div class="testimonials">
+<div class="heads">
     <amp-carousel height="350" layout="fixed-height" type="slides" role="region" aria-label="What clients say about us">
-    {% set testimonials = collections.testimonial %}
-    {% for testimonial in testimonials %}
-    {% set t = testimonial.data %}
+    {% set heads = collections.head %}
+    {% for head in heads %}
+    {% set t = head.data %}
         <div class="single">
             <h3>{{t.service}}</h3>
             <p>{{t.description}}</p>
