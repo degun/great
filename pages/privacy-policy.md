@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 date: 2021-07-25T15:46:44.360Z
-permalink: /privacy-policy
+permalink: /privacy-policy/
 image: /static/img/roofing.jpg
 ---
 **Privacy Policy**
