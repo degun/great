@@ -106,8 +106,18 @@ footer .copyright {
 	background-color: var(--primary);
 	color: white;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+footer .copyright .useful-links {
+	padding-bottom: 8px;
+}
+
+footer .copyright .useful-links a {
+	color: white;
+	text-decoration: none;
 }
 
 @media (max-width: 1260px){

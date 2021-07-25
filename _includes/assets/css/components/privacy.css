@@ -1,5 +1,4 @@
 .privacy {
-    display: flex;
     padding: 60px calc((100% - 1220px)/2);
 }
 
