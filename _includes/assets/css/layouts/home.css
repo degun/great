@@ -125,6 +125,7 @@
     width: 50%;
     padding: 60px;
     background-color: var(--secondary-medium);
+    border-radius: 4px;
 }
 
 .testimonials-contact .contact-section h3 {

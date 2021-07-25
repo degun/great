@@ -21,6 +21,7 @@
 .testimonials .single {
     background-color: white;
     padding: 40px;
+    border-radius: 4px;
 }
 
  .testimonials .single h3 {
