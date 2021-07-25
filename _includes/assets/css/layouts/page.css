@@ -13,7 +13,7 @@
 
 .page .sider a {
     background-color: var(--primary);
-    color: var(--secondary);
+    color: white;
     padding: 16px;
     height: 48px;
     display: flex;
@@ -39,14 +39,11 @@
 }
 
 .page .sider a.active, .page .sider a.active:hover {
-    color: var(--primary);
-    background-color: var(--secondary);
-    border: 1px solid var(--secondary)
+    background-color: var(--primary-lighter);
 }
 
 .page .sider a:hover {
-    background-color: var(--secondary);
-    color: var(--primary);
+    background-color: var(--primary-lighter);
 }
 
 .page .sider a:first-child {
@@ -55,7 +52,7 @@
 
 .page .body img {
     width: 100%;
-    height: 400px;
+    height: 500px;
     object-fit: cover;
     background-position: 50%;
     border-radius: 4px;
