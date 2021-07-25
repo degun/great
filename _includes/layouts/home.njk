@@ -4,16 +4,7 @@ section: home
 permalink: /
 ---
 
-<div class="hero">
-    <div class="overlay"></div>
-    <div class="content">
-        <h3>We do it the right way</h3>
-        <h1>Great services at an <a href="/contact/">affordable price</a></h1>
-        <a href="/contact"><button class="gradient-btn">
-            <i class="fa fa-arrow-right"></i> Let's start here with a free estimate
-        </button></a>
-    </div>
-</div>
+{% include "components/heads.njk" %}
 <div class="services">
     {% for service in menus[2].children %}
         <a href="{{service.route}}">

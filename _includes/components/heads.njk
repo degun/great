@@ -1,27 +1,16 @@
 <div class="heads">
-    <amp-carousel height="350" layout="fixed-height" type="slides" role="region" aria-label="What clients say about us">
+    <amp-carousel type="slides" delay="10" role="region" aria-label="What clients say about us">
     {% set heads = collections.head %}
     {% for head in heads %}
-    {% set t = head.data %}
-        <div class="single">
-            <h3>{{t.service}}</h3>
-            <p>{{t.description}}</p>
-            <div class="name">{{t.name}}</div>
-            <div class="location">{{t.location}}</div>
-            <div class="rating">
-                {% set rating = t.rating %}
-                {% set whole = rating - rating%1 %}
-                {% set half = 1 if rating%1 else 0 %}
-                {% set emptied = 5 - whole - half %}
-                {% for i in range(0, whole) %}
-                    <i class="fas fa-star"></i>
-                {% endfor %}
-                {% if half == 1 %}
-                    <i class="fas fa-star-half-alt"></i>
-                {% endif %}
-                {% for i in range(0, emptied) %}
-                    <i class="far fa-star"></i>
-                {% endfor %}
+    {% set h = head.data %}
+        <div class="hero">
+            <div class="overlay"></div>
+            <div class="content">
+                <h3>{{ h.subtitle }}</h3>
+                <h1>{{ h.title }}</h1>
+                <a href="{{ h.path }}"><button class="gradient-btn">
+                    <i class="fa fa-arrow-right"></i> {{ h.linktext }}
+                </button></a>
             </div>
         </div>
     {% endfor %}
