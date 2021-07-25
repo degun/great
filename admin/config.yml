@@ -62,4 +62,5 @@ collections:
       - { label: "Subtitle", name: "subtitle", widget: "string" }
       - { label: "Link text", name: "linktext", widget: "string" }
       - { label: "Link path", name: "path", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
 

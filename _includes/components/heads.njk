@@ -3,7 +3,7 @@
     {% set heads = collections.head %}
     {% for head in heads %}
     {% set h = head.data %}
-        <div class="hero">
+        <div class="hero" style="background-image: url('{{ h.image }}')">
             <div class="overlay"></div>
             <div class="content">
                 <h3>{{ h.subtitle }}</h3>
