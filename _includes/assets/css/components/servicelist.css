@@ -101,3 +101,9 @@
         height: auto;
     }
 }
+
+@media (max-width:414px) {
+    .servicelist .services .service .info ul {
+        column-count: 1;
+    }
+}
