@@ -1,9 +1,14 @@
 ---
+layout: layouts/privacy-policy.njk
 title: Privacy policy
+metaName: The Great Construction Company
+metaDescription: This is the privacy policy
+section: privacy-policy
 date: 2021-07-25T15:46:44.360Z
-permalink: /privacy-policy
+permalink: /privacy-policy/
 image: /static/img/roofing.jpg
 ---
+
 **Privacy Policy**
 
 **PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE USING THESE WEBSITES.**
