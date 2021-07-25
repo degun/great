@@ -1,5 +1,5 @@
 ---
-title: Professional roofing contractor in New Jersey
+title: Professional Roofing Contractor in New Jersey
 subtitle: Our Team Is Fully Qualified
 linktext: Get a Free Quote!
 path: /projects
