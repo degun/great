@@ -57,6 +57,11 @@
         "children": null
     },
     {
+        "name":"Blog", 
+        "route": "/blog/",
+        "children": null
+    },
+    {
         "name":"Contact", 
         "route": "/contact/",
         "children": null

@@ -80,7 +80,7 @@ header .navigation .logo img {
 header .navigation nav.header-menu {
 	display: flex;
 	justify-content: space-between;
-	width: 42%;
+	width: 50%;
 }
 
 header .navigation nav.header-menu a{
@@ -240,7 +240,7 @@ header .benefits .benefit .desc .lower i{
 	}
 }
 
-@media (max-width: 900px){
+@media (max-width: 1135px){
 	header .navigation nav.header-menu {
 		display: none;
 	}

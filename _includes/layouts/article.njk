@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+section: article
+---
+
+<article class="single-article" id="content">
+
+  <h1>{{title}}</h1>
+  <img src="{{image}}" alt="{{title}}">
+  {{ layoutContent | safe }}
+  
+</article>

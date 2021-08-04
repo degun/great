@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+section: blog
+---
+
+{% from "components/pagetitle.njk" import pageTitle %}
+
+<div class="blog" id="content">
+    {% for p in collections.blog %}
+        {% set article = p.data %}
+        {% set image = article.image %}
+        <a class="article" style="animation-delay: {{loop.index0 * 100}}ms" href="{{p.url}}">
+            <div class="article-image">
+                {% img image | replace("/static", "./static"), "page-image", "{{ article.title }}", "", [400] %}
+            </div>
+            <div class="article-info">
+                <h6>{{article.date | readableDate}}</h6>
+                <h2>{{article.title}}</h2>
+                <p>{{article.summary}}</p>
+            </div>
+        </a>
+    {% endfor %}
+</div>
