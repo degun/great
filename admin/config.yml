@@ -25,7 +25,6 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Images", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "image" }  }
 
-  collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Article" # Used in the UI
     folder: "blog" # The path to the folder where the documents are stored
