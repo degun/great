@@ -157,7 +157,125 @@ Professional roofing contractors are experienced with different types of roof da
 
 Schedule an inspection with a roofing contractor as soon as possible if your roof is showing signs of aging, storm damage, or if you have signs of leaks or water damage in your home. If you need a new roof or roof repair, then it’s better to get the work done sooner than later to help prevent further deterioration and/or damage to your home
 
+<!--StartFragment-->
 
+Roof Shingles Problems
+
+Is this something that can be repaired? Is this something that requires that a reroof be performed on your home? 
+
+There are a couple of tell-tale signs of shingle problems:
+
+● Loose or missing shingles
+
+● Exposed shingle nail heads
+
+● Asphalt shingles that are drying out, curling, or cracking
+
+● Dark patches on your roof
+
+● Shingle granules in your gutters or on the bottom around your house
+
+● New water leaks in your home
+
+● Higher heating and cooling expenses
+
+
+
+Loose or Missing Shingles
+
+If quite one shingle is loose or actually missing, that would be a symbol of a general shingle problem. Maybe it had been caused by extreme weather, but your shingles also could be improperly installed or getting too old. Either way, your attic and other interior areas could be vulnerable to water damage.
+
+
+
+Exposed Nails
+
+Asphalt shingles are installed using metal nails. If weather or age has pulled some nails partially out of the roof, which will cause small cracks or holes where water can get through, causing rot or other damage to your roof.
+
+
+
+Drying, Curling, or Cracking Shingles
+
+Drying asphalt shingles can curl or crack. These are signs that they're a minimum of on the brink of the top of their lives and not getting to keep water out of your home for for much longer .
+
+
+
+Dark Roof Patches
+
+Areas of your roof that suddenly look darker can mean two things. First, the protective surface granules from the shingles might slump , leaving the dark asphalt under them exposed. Or second, the dark areas could be moss or algae, which should be cleaned.
+
+
+
+ Falling Shingle Granules
+
+Look in your gutters and on the bottom around your house. If you discover small granules like fine gravel, they might slump on your asphalt shingles as they age. That can leave your shingles more exposed to sun, snow, and hail, and may expose your home to water damage.
+
+Leaks
+
+If new leaks develop in your attic or other parts of your home during rain, snow, or hail, you'll be missing shingles or have several that are significantly damaged. Leaks can cause mold and other serious problems.
+
+
+
+Higher Heating and Cooling Expenses
+
+Have your heating or cooling bills gone up quite seasonally? You might have numerous damaged or missing shingles that they're letting significant amounts of hot or cold air out of your home.
+
+
+
+Contact The Great Construction Company for Shingle Repair
+
+Your roof needs to stay in good repair in order to keep out rain, snow, and hail. It also has to help insulate your home from temperature changes. Plus, your roof and shingles should survive occasional high winds. If your roof shingles are falling off, we can immediately fix the problem.
+
+
+
+At The Great Construction, we perform every roof service that you need. We offer professional inspections to assess any problems, and we can install and replace roofs, and much more!
+
+
+
+4.How to stop roofing tiles from clogging your gutter.
+
+
+
+ It’s a problem faced by both residential and commercial property owners. And it’s not something you should put up with.
+
+Clogged gutters can lead to overflowing water, leaks and damage to the inside and outside of your property. They can even contribute to ice dam formation in winter.
+
+Ways to prevent clogged gutters becoming a drag for you.
+
+Keep trees trimmed
+
+Trees are an excellent feature around your property, but they’re not so advantageous for gutters. Trees that stretch over, or grow within close proximity of your roof, can release tons of leaves and twigs, especially in autumn. When they’re released, they fall or blow into your gutters and make it harder for water to flow through. The problem becomes worse as leaves become wet and make a dense barrier.
+
+
+
+Install leaf guards
+
+Of course, there is a way to stop those leaves getting into your gutters. Leaf guards filter leaves and other debris before they enter your gutters, allowing water to flow through. It’s worth getting expert advice before installing leaf guards though. Some types are less effective, retaining debris and allowing moss to grow around your gutters.
+
+
+
+Have gutters cleaned professionally
+
+Keeping your gutters clear yourself isn’t easy, neither is it something advisable without the proper health and safety training. Professional gutter clearing allows you to keep on top of your guttering without any hassle or stress. For both commercial and residential properties, this is a sure-fire way to stop your gutters clogging and causing more expensive problems.
+
+Regular inspections
+
+Damage to gutters can increase the likelihood of clogging. Even the littlest crack can act as a trap for debris, allowing it to create up. The solution? Have your gutters inspected, to make sure they're fully working order. This will identify any issues and allow them to be fixed before they develop into something more serious. It will also flag up any issues together with your roof, like loose tiles, that would damage your gutters.
+
+
+
+Install better gutters
+
+Even with preventative measures, you might find your gutters are still clogging regularly. The problem could simply be how your gutters are installed. Poorly installed gutters make clogging more likely, accelerating debris build-up in certain areas. Consider having a new guttering system installed. The investment could pay off within the end of the day , saving you money on continual repairs.
+
+
+
+Expert guttering services
+
+The Great Construction Company are experts in guttering, providing a variety of essential services. Whether it’s cleaning, clearing, repairs or replacement, we can ensure your gutters are in full working order and prevent any damage to your property. Contact us today to talk about your gutter issues and see how we can provide a solution.
+
+
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
