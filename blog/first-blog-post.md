@@ -11,7 +11,7 @@ tags:
   - roof contractors
   - roof replacement
   - roofing
-image: /static/img/gutter-reinforcement-and-fascia-cover-repair.jpeg
+image: /static/img/siding-repair-nj.jpg
 ---
 <!--StartFragment-->
 
