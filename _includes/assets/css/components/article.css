@@ -9,17 +9,22 @@
 }
 
 .single-article *:not(img) {
-    padding: 60px calc((100% - 1220px)/2);
+    padding: 0px calc((100% - 1220px)/2);
 }
 
 .single-article img {
-    width: 100%;
+    width: 1300px;
+    margin: 0 calc((100% - 1300px)/2);
     height: 500px;
     object-fit: cover;
+    border-radius: 4px!important;
 }
 
  @media (max-width: 1220px) {
      .single-article *:not(img) {
-        padding: 60px 5%;
+        padding: 0px 5%;
+     }
+     .single-article img {
+        padding: 0px 4%;
      }
 }

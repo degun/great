@@ -46,7 +46,7 @@
     background-color: #f5f5f5;
  }
 
- .article:first-child { 
+ .article:nth-child(4n+1) { 
      width: 100%;
      display: grid;
      grid-column: 1/-1;
@@ -97,7 +97,25 @@
         grid-template-columns: 100%;
     }
 
-    .article img {
+    .blog .article:nth-child(4n+1) {
+        text-decoration: none;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 100%;
+        grid-auto-rows: auto;
+        opacity: 0;
+        column-gap: 32px;
+        row-gap: 8px;
+        transform: translateY(-20px);
+        height: auto;
+        padding: 16px;
+        border-radius: 4px;
+        background-color: aliceblue;
+        color: black;
+        animation: appear 0.8s cubic-bezier(0.4, 0.0, 0.2, 1) forwards; 
+    }
+
+    .blog .article img {
         height: 250px;
     }
 }
