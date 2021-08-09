@@ -18,7 +18,7 @@ image: /static/img/bad-roof-installation.jpg
 
 
 
-Important Signs of a Bad Roof Installation
+**Important Signs of a Bad Roof Installation**
 
 
 
