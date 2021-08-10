@@ -10,7 +10,7 @@ tags:
   - blog
   - another tag
   - another two
-image: /static/img/bad-roof-installation.jpg
+image: /static/img/roofing-contractors.jpg
 ---
 <!--StartFragment-->
 
