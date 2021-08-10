@@ -263,7 +263,7 @@ Reflective roof coating is your answer to a long lasting roof! If you’re consi
 
 **What you should know before you begin installing a skylight?**
 
-Skylights are a superb addition to any home.They can brighten up darker rooms, make a neighborhood feel more spacious, and even improve the worth of your home too.
+Skylights are a superb addition to any home. They can brighten up darker rooms, make a neighborhood feel more spacious, and even improve the worth of your home too.
 
 Before you begin installing skylights there are a couple of things you should take into consideration to make sure you get the simplest solution for your needs (and don’t waste money in the process!).
 
