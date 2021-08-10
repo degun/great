@@ -39,14 +39,21 @@ There are seven basic roofing components you ought to know:
 
 After you understand the components that structure your roof, it’s important to spot roofing design elements, and which of them apply to your home.
 
-1. Gable Wall: These are triangular portions of the house which extend from the eaves to the height of the roof.
-2. Centerline of Ridge: Also called the verge, this refers to the wall or rafter under the sting of a roof where a gable ends.
-3. Ridge: this is often the very best point of the roof, which is additionally mentioned because the peak.
-4. Valley: The areas of the roof where two sections meet and slope down.
-5. Eaves: Edges of the roof that hang over the outside walls of a home.
-6. Hip: A part where two sections of the roof meet.
-7. Abutment: Where sections of the roof meet a vertical area like a wall or chimney.
-8. Dormers: Not every roof has them, but these are sections of the house that stick out from the roof, designed to usher in natural light to an attic or third floor.
+Gable Wall: These are triangular portions of the house which extend from the eaves to the height of the roof.
+
+Centerline of Ridge: Also called the verge, this refers to the wall or rafter under the sting of a roof where a gable ends.
+
+Ridge: this is often the very best point of the roof, which is additionally mentioned because the peak.
+
+Valley: The areas of the roof where two sections meet and slope down.
+
+Eaves: Edges of the roof that hang over the outside walls of a home.
+
+Hip: A part where two sections of the roof meet.
+
+Abutment: Where sections of the roof meet a vertical area like a wall or chimney.
+
+Dormers: Not every roof has them, but these are sections of the house that stick out from the roof, designed to usher in natural light to an attic or third floor.
 
 ![](https://lh6.googleusercontent.com/JCsFyCqHBpVIM2ze9tKbkcmchjKoMq-0H1tDV2dmhHQdKLEFoEk6jsek5zzFDm49mEOpcStBaa5bT4Cie54e9FVYUg6dmKS-8nuT_8VQifck7IFNE7JC7bSzWqcld0Yqk1hyIJY)
 
@@ -75,7 +82,7 @@ Bald shingles. The granular coating on asphalt shingles helps to guard them from
 
 Cracked shingles. Over the years, UV ray exposure from the sun may cause roof shingles to “dry out” and crack on the surface.
 
-Discoloration. The colour of your roofing shingles may fade over the years thanks to UV degradation, another sign of an aging roof.
+Discoloration. The color of your roofing shingles may fade over the years thanks to UV degradation, another sign of an aging roof.
 
 Dark streaks. While dark streaks on your roof could also be more of an aesthetic problem, they’re a sign of algae growth on your roof. Lichen growth, which occurs with a mixture of algae and fungus, can eventually damage shingles and their protective granules. A homeowner’s initiative should be to possess knowledge, clean and inspect their roof to see the condition of the shingles and see if a repair or reroof is necessary.
 
@@ -109,7 +116,7 @@ Homeowners may postpone signs of an aging roof and be unaware of storm damage, b
 
 Roofs are susceptible to water within the winter, too. When snow thaws and refreezes over the eaves, it can create ice dams. Water that builds abreast of the roof’s surface can copy underneath the shingles, eventually finding even the tiniest of holes and making its way into your home.
 
-![](https://lh3.googleusercontent.com/0MUch-jX-k7MjVc9RUJMAEiqfnoKByzKrXuzQWTxiuMObqRsgGHFglYzanDtq3LIUBn1-l1BIgEt8HLBJwemV8wKHo2HrKBvMcvCbvtSBLGoS6ID9fXcbmHlNqEJ5NXqNoVRbIk)
+![](/static/img/roofing-nj-.png)
 
 How does one spot where the leaks are coming from?
 
@@ -216,45 +223,31 @@ The Great Construction Company are experts in guttering, providing a variety of 
 
 **What are the pros of using some of the new roof coatings?** 
 
-
-
 Did you recognize that applying a roof coating could increase the lifespan of your roof, whether it had been installed recently or a decade ago?
 
 Coating your roof can reduce heat costs and increase UV and waterproofing protection for the roof. As a roof is exposed to heat and ultraviolet rays over the years, materials break down. This chemical breakdown begins to ruin the roof’s appearance and performance.
 
 Roof coatings lend strength and longevity to roofing materials while maintaining the aesthetic appearance of any structure.
 
-
-
 Advantages of  Roof Coatings
 
 Reflective roof coatings act as a barrier between your roof and therefore the elements. Many facility owners and managers are still relatively unaware of the numerous advantages they provide. 
-
-
 
 * Reduced Cooling Bills
 
 Roof coatings lower the roof's surface temperature and decrease your home’s interior temperature by an average of seven to 10 degrees. Quality roof coatings will also reflect damaging ultraviolet and infrared sunlight away from your building,allowing for [cooler roof](https://www.energy.gov/energysaver/cool-roofs) and building temperatures resulting in a reduction in air conditioning energy usage.
 
-
-
 * Extended Roof Life
 
 Roof coatings create a resilient barrier between the weather and therefore the uppermost layers of your building material. The right roof coating increases your roof’s waterproof quality, guarding your roof from harmful sun rays, prevents UV damage, and reflects heat faraway from the roof’s surface. This increases the longevity of your roofing while lowering maintenance expenses.
-
-
 
 * Useful With A Variety Of Materials
 
 Roof coatings are formulated to stick to a good range of roofing surface types, including metal roofs, asphalt roofs, composite roofs, galvanized metal, wood, etc. However, before applying roof coatings to materials like shingle, check your manufacturer’s warranty to ascertain if these spray/brush-on products void your warranty. And when replacing a roof, consider upgrading to reflective coating shingles to profit from the [“hot” cool-roofing movement happening in America.](https://grist.org/climate-energy/cool-roofs-offer-a-salve-for-hot-cities-and-the-climate-too/)
 
-
-
 * Avoiding Early Roof Replacement
 
 Small leaks and other minor damage are often repaired before a roof coating is applied. In some cases, you'll be ready to avoid full-scale replacement of your roof for several years if you utilize the proper coating for the work. Not to mention the [environmental impact that roofing materials](https://www.gulfcoastsupply.com/sustainable-roofing-the-impact-of-your-metal-roof/) have when disposed of in a landfill.”
-
-
 
 * Fade Resistance
 
@@ -264,16 +257,11 @@ Reflective roof coatings help your roof maintain its color over time improving t
 
 One final peripheral advantage of roof coatings is that they assist in reducing waste by extending the lifetime of your roof thus minimizing the quantity of debris produced during maintenance and repair. Today, most coatings are specially formulated for environmental safety also , so you don’t need to worry about production techniques or dangerous chemicals. Cool roofs also benefit the environment by reducing local air temperatures (the urban heat island effect) and lowering peak electricity demand.
 
-
-
 Reflective roof coating is your answer to a long lasting roof! If you’re considering this simple yet effective method of extending the life of your roof, contact [The Great Construction Company,](https://www.thegreatconstruction.com/) a family owned & operated New Jersey roofing contractor with nearly +15 years of experience. We are fully licensed and insured to do all types of roofing, siding, gutter, masonry, chimney, repair, installation and maintenance work!
 
-\
 <!--StartFragment-->
 
 **What you should know before you begin installing a skylight?**
-
-
 
 Skylights are a superb addition to any home.They can brighten up darker rooms, make a neighborhood feel more spacious, and even improve the worth of your home too.
 
@@ -281,9 +269,7 @@ Before you begin installing skylights there are a couple of things you should ta
 
 What you need to know before installing skylights in your home.
 
-
-
-1. What features do you want on your skylight?
+1.What features do you want on your skylight?
 
 Not all skylights are the same! Before installing your skylights, you ought to know what features you would like your skylights to possess .
 
@@ -293,9 +279,7 @@ Do you need a fixed skylight, meaning you can’t open it, or a vented skylight 
 
 You should also consider what material you want your skylight to be made out of. You can have glass skylights, but you'll even have plastic skylights. Glass is more expensive than plastic, but it doesn’t get scratched up as quickly as plastic does.
 
-
-
-2. Where do you want to place the skylight?
+2.Where do you want to place the skylight?
 
 Figure out exactly where you would like your skylight to travel before you begin the installation.
 
@@ -309,25 +293,18 @@ You should also take into consideration where the dark spots are in your home. I
 
 Size matters when choosing your skylight so if you would like to bring more light in then you’re going to need additional roof framing to satisfy building codes. Don’t worry though you'll add more light by installing smaller skylights between rafters.
 
-
-
 3.Make sure your skylights are leak-free!
 
 When you install  skylights in three important steps to make sure that they don’t leak. Nail the deck seal to the roof deck for an airtight seal.
 
 Install the all-weather underlayment and canopy the edges of the skylights and 6 inches round the skylight on the roof deck. Adding up to 2 feet of all-weather underlayment round the skylight is important for areas with extreme weather. And finally install the flashing.
 
-
-
 4. Choose how you want your skylights installed
 
 When installing your skylight there are two ways you can get them installed: 
 
-*
 * Curb mounted skylight
 * Deck mounted skylight
-
-
 
 5. Fit your skylight right the first time
 
@@ -335,11 +312,7 @@ You want your skylight to be fitted right the first time, so if you’re hiring 
 
 The damages from faulty skylight installations are often quite costly, so confirm that it’s done right the primary time to avoid going over your budget.
 
-
-
 Contact [The Great Construction Company,](https://www.thegreatconstruction.com/) a family owned & operated New Jersey roofing contractor with nearly +15 years of experience. We are fully licensed and insured to do all types of roofing, siding, gutter, masonry, chimney, repair, installation and maintenance work!
-
-
 
 <!--EndFragment-->
 
