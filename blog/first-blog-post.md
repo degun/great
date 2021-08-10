@@ -55,7 +55,7 @@ Abutment: Where sections of the roof meet a vertical area like a wall or chimney
 
 Dormers: Not every roof has them, but these are sections of the house that stick out from the roof, designed to usher in natural light to an attic or third floor.
 
-![](https://lh6.googleusercontent.com/JCsFyCqHBpVIM2ze9tKbkcmchjKoMq-0H1tDV2dmhHQdKLEFoEk6jsek5zzFDm49mEOpcStBaa5bT4Cie54e9FVYUg6dmKS-8nuT_8VQifck7IFNE7JC7bSzWqcld0Yqk1hyIJY)
+![roof replacement](https://lh6.googleusercontent.com/JCsFyCqHBpVIM2ze9tKbkcmchjKoMq-0H1tDV2dmhHQdKLEFoEk6jsek5zzFDm49mEOpcStBaa5bT4Cie54e9FVYUg6dmKS-8nuT_8VQifck7IFNE7JC7bSzWqcld0Yqk1hyIJY "The Great Construction Company New Jersey Roofing Services")
 
 Take a glance outside and check which elements your roof has, noting what percentage ridges, hips, abutments and gables are present. If you’re considering a roof replacement within the near future, it’s important to know the square footage and style of your existing structure to estimate what proportion it'll cost
 
@@ -96,7 +96,7 @@ Time. While properly installed, high-quality asphalt shingles can provide two to
 
 The roof is one among your home’s first lines of defense against Mother Nature. Certain regions of the country are more related to specific adverse weather events, like tornadoes or hurricanes. However, most locales experience occasional summer storms, which may produce damaging wind gusts and hail. Due to its large surface area and exposed location, the roof is especially vulnerable to storm damage.
 
-![](https://lh4.googleusercontent.com/CEtL9xocTV7PhLq0EmVSqhg-9tFgqlpfHFy6aV1yhvlvLVbpIykzcTuCfj0wVs4pqdr_HCi6DMKSLNvx-BsljJJz3umgbmv7wOiwX8kESJwqv4p7APoHTw0XeB5dwT--9RCpgLw)
+![roof inspection](https://lh4.googleusercontent.com/CEtL9xocTV7PhLq0EmVSqhg-9tFgqlpfHFy6aV1yhvlvLVbpIykzcTuCfj0wVs4pqdr_HCi6DMKSLNvx-BsljJJz3umgbmv7wOiwX8kESJwqv4p7APoHTw0XeB5dwT--9RCpgLw "The Great Construction Company New Jersey Roofing Services")
 
 Hailstorms
 
@@ -116,7 +116,7 @@ Homeowners may postpone signs of an aging roof and be unaware of storm damage, b
 
 Roofs are susceptible to water within the winter, too. When snow thaws and refreezes over the eaves, it can create ice dams. Water that builds abreast of the roof’s surface can copy underneath the shingles, eventually finding even the tiniest of holes and making its way into your home.
 
-![](/static/img/roofing-nj-.png)
+![roof leak repair](/static/img/roofing-nj-.png "The Great Construction Company New Jersey Roofing Services")
 
 How does one spot where the leaks are coming from?
 
