@@ -11,7 +11,7 @@ tags:
   - roof contractors
   - roof replacement
   - roofing
-image: /static/img/siding-repair-nj.jpg
+image: /static/img/gutter-installation-new-jersey.jpeg
 ---
 <!--StartFragment-->
 
