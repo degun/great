@@ -5,7 +5,7 @@ metaDescription: The Great Construction is a Certified Contractor for the
   Roof. Quality Work-Reasonable Prices.
 date: 2021-05-24T15:35:59.562Z
 permalink: /services/flat-roof/
-image: /static/img/flat-roof-installation.jpg
+image: /static/img/flat-roof-installation-nj.jpg
 ---
 <!--StartFragment-->
 
