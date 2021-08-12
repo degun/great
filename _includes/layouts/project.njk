@@ -13,8 +13,9 @@ section: project
 
   <div class="images">
     {% for image in images %}
-      
-      {% img image | replace("/static", "./static"), "page-image", "" + title + "", "", [400], "animation-delay: " + loop.index0 * 100 + "ms" %}
+      {% if image %}
+        {% img image | replace('/static', './static'), "page-image", "" + title + "", "", [400], "animation-delay: " + loop.index0 * 100 + "ms" %}
+      {% endif %}
     {% endfor %}
   </div>
   
