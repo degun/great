@@ -17,7 +17,6 @@ images:
   - /static/img/img-20210809-wa0005.jpg
   - /static/img/img-20210809-wa0002.jpg
   - /static/img/img-20210717-wa0010.jpg
-  - /static/img/img-20210717-wa0011-1-.jpg
   - /static/img/img-20210717-wa0011.jpg
   - /static/img/img-20210717-wa0009-1-.jpg
   - /static/img/img-20210717-wa0008-1-.jpg
