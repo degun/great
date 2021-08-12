@@ -12,7 +12,6 @@ tags:
   - project
 images:
   - /static/img/img-20210809-wa0006.jpg
-  - /static/img/roofing-inspection-near-me.jpeg
   - /static/img/img-20210809-wa0004.jpg
   - /static/img/img-20210809-wa0005.jpg
   - /static/img/img-20210809-wa0002.jpg
