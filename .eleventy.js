@@ -7,6 +7,7 @@ const metagen = require('eleventy-plugin-metagen');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const schema = require("@quasibit/eleventy-plugin-schema");
 const Image = require("@11ty/eleventy-img");
+const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 function imageShortcode(src, cls, alt, sizes, widths, style) {
   let options = {
@@ -41,6 +42,12 @@ module.exports = function(eleventyConfig) {
   // post to a new file like this:
   // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
 
+  // sitemap plugin
+  eleventyConfig.addPlugin(sitemap, {
+    sitemap: {
+      hostname: "https://www.thegreatconstruction.com",
+    },
+  });
   // schema.org plugin
   eleventyConfig.addPlugin(schema);
   // metadata generation
