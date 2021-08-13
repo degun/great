@@ -13,8 +13,8 @@ section: projects
         {% set image = project.images[0] %}
         <div class="project" style="animation-delay: {{loop.index0 * 100}}ms">
             <div class="project-image">
-                <a href="{{p.url}}">
-                    {% img image | replace("/static", "./static"), "page-image", "{{ project.title }}", "", [400] %}
+                <a href="{{p.url}}" aria-label="View this project in more detail on a new page">
+                    {% img image | replace("/static", "./static"), "page-image", project.title, "", [400] %}
                 </a>
             </div>
             <div class="project-info">

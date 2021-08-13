@@ -34,7 +34,7 @@ const Post = createClass({
               entry.getIn(["data", "tags"], []).map(
                 tag =>
                   html`
-                    <a href="#" rel="tag">${tag}</a>
+                    <a href="#" rel="tag" aria-label="Read all there is to know about ${tag}">${tag}</a>
                   `
               )
             }

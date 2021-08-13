@@ -9,13 +9,13 @@
     <div class="column links">
       <h2>Our services</h2>
         {% for service in pages[2].children %}
-          <a href="{{service.route | url}}" {% if service.route == page.url %} class="current" {% endif %}>{{ service.name }}</a>
+          <a href="{{service.route | url}}" {% if service.route == page.url %} class="current" {% endif %} aria-label="Read all there is to know about {{ service.name }}">{{ service.name }}</a>
         {% endfor %}
     </div>
     <div class="column links">
       <h2>Quick links</h2>
       {% for p in pages %}
-        <a href="{{p.route | url}}" {% if p.route == page.url %} class="current" {% endif %}>{{ p.name }}</a>
+        <a href="{{p.route | url}}" {% if p.route == page.url %} class="current" {% endif %} aria-label="Read all there is to know about {{ p.name }}">{{ p.name }}</a>
       {% endfor %}
     </div>
     <div class="column">
@@ -26,18 +26,18 @@
         </div>
         <div class="contact-info">
           <i class="fa fa-phone"></i>
-          <a href="tel: +12016735638">+1 (201) 673-5638</a>
+          <a href="tel: +12016735638" aria-label="Initiate a call to this number">+1 (201) 673-5638</a>
         </div>
         <div class="contact-info">
           <i class="fa fa-envelope"></i>
-          <a href="mailto: info@thegreatconstruction.com">info@thegreatconstruction.com</a>
+          <a href="mailto: info@thegreatconstruction.com" aria-label="Initiate an email correspondence with the contact email of The Great Construction Company">info@thegreatconstruction.com</a>
         </div>
     </div>
   </div>
   
   <div class="copyright">
    <div class="useful-links">
-    <a href="/privacy-policy/">Privacy policy</a>
+    <a href="/privacy-policy/" aria-label="Read the privacy policy">Privacy policy</a>
   </div>
     &copy; 2021 - present: The Great Construction Company
   </div>

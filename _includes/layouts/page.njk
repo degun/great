@@ -8,7 +8,7 @@ section: page
 <div class="page" id="content">
     <div class="sider">
         {% for service in menus[2].children %}
-            <a href="{{service.route}}" {% if service.route == page.url %} class="active" {% endif %}>
+            <a href="{{service.route}}" {% if service.route == page.url %} class="active" {% endif %} aria-label="Read all there is to know about {{ service.name }}">
                 <img src="{{service.icon}}" />
                 {{service.name}}
             </a>

@@ -7,7 +7,7 @@ permalink: /
 {% include "components/heads.njk" %}
 <div class="services">
     {% for service in menus[2].children %}
-        <a href="{{service.route}}">
+        <a href="{{service.route}}" aria-label="Read all there is to know about {{ service.name }}">
             <img src="{{service.icon}}" alt="{{servie.name}} icon" />
             <h3>{{service.name}}</h3>
             <p>{{service.description}}</p>
