@@ -6,6 +6,7 @@ metaDescription: Thank you for your interest. We'll get back to you as soon as p
 section: thank-you
 date: 2021-07-17
 permalink: /thank-you/
+ignore: true
 eleventyNavigation:
   key: Thank you
   order: 7
