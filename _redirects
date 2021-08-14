@@ -1,0 +1,3 @@
+/.well-known/* /.well-known-apex/:splat 200  # this will match before the generic redirect below
+http://thegreatconstruction.com/* https://www.thegreatconstruction.com/:splat 301!
+https://thegreatconstruction.com/* https://www.thegreatconstruction.com/:splat 301!
