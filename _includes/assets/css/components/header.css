@@ -280,11 +280,13 @@ header .benefits .benefit .desc .lower i{
 		padding-top: 0;
 		padding-bottom: 0;
 		width: 100%;
+		height: auto;
+		font-size:1.2rem;
 	}
 
 	header .banner .right .social {
 		border-left: none;
-		height: 28px;
+		height: 32px;
 		display: flex;
 		align-items: center;
 		width: 100%;

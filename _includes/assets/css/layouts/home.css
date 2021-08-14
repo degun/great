@@ -153,7 +153,9 @@
    font-weight: normal;
 }
 
-.towns h5 {
+.towns .h5 {
+    display: block;
+    font-weight: bold;
     font-size: 2.3rem;
     margin: 0 0 30px 0;
 }
