@@ -5,7 +5,7 @@
   <link rel="canonical" href="https://www.thegreatconstruction.com{{ page.url }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <script defer>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -25,16 +25,17 @@
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   {% metagen
-      title="New Jersey Roofing Contractorss",
-      url="https://thegreatconstruction.com",
+      title="The Great Construction Company",
+      url="https://www.thegreatconstruction.com",
       img="assets/images/heads/roofing.jpg",
-      img_alt="The Great Construction Van",
+      img_alt="The Great Construction",
       name="Edlir Velaj"
   %}
   <meta name="name" content="The Great Construction Company">
   {% if ignore %}
     <meta name="robots" content="noindex"/>
   {% endif %}
+  <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
   <script defer src="https://cdn.ampproject.org/v0.js"></script>
   <script defer custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js"></script>
   <script defer custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>

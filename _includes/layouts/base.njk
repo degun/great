@@ -19,7 +19,11 @@
 		{% include "components/footer.njk" %}
 
 		<script type="text/javascript">
-			document.getElementById('content')?.scrollIntoView();
+			const content = document.getElementById("content");
+			if (content) {
+				const y = content.getBoundingClientRect().top + window.pageYOffset -520;
+				window.scrollTo({top: y});
+			}
 		</script>
 
 	</body>
