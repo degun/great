@@ -42,8 +42,12 @@
     margin-bottom: 16px;
 }
 
- .testimonials .single .rating i{
-    color: #FADB15;
+.testimonials .single .rating svg {
+    height: 16px;
+}
+
+ .testimonials .single .rating svg path{
+    fill: #FADB15;
 }
 
 @media (max-width: 1260px) {

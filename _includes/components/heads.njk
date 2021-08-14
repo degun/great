@@ -9,7 +9,7 @@
                 <h3>{{ h.subtitle }}</h3>
                 <h1>{{ h.title }}</h1>
                 <a href="{{ h.path }}"><button class="gradient-btn">
-                    <i class="fa fa-arrow-right"></i> {{ h.linktext }}
+                    {% include "assets/icons/arrow-right-solid.njk" %} {{ h.linktext }}
                 </button></a>
             </div>
         </div>

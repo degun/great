@@ -14,13 +14,13 @@
                 {% set half = 1 if rating%1 else 0 %}
                 {% set emptied = 5 - whole - half %}
                 {% for i in range(0, whole) %}
-                    <i class="fas fa-star"></i>
+                    {% include "assets/icons/star-solid.njk" %}
                 {% endfor %}
                 {% if half == 1 %}
-                    <i class="fas fa-star-half-alt"></i>
+                    {% include "assets/icons/star-half-alt-solid.njk" %}
                 {% endif %}
                 {% for i in range(0, emptied) %}
-                    <i class="far fa-star"></i>
+                    {% include "assets/icons/star-solid.njk" %}
                 {% endfor %}
             </div>
         </div>

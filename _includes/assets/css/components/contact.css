@@ -39,9 +39,9 @@
 	margin-bottom: 16px;
 }
 
-.contacts .contact-info .info i {
-	color: var(--secondary-medium);
-	font-size: 1.6rem;
+.contacts .contact-info .info svg {
+	color: black;
+	height: 38px;
 	padding-right: 16px;
 	padding-bottom: 16px;
 }

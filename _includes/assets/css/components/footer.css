@@ -83,16 +83,26 @@ footer .columns .column .contact-info {
 	margin-bottom: 16px;
 }
 
-footer .columns .column .contact-info i {
-	color: var(--secondary-medium);
-	font-size: 1.6rem;
+footer .columns .column .contact-info svg {
 	padding-right: 16px;
 	padding-bottom: 16px;
+	height: 60px;
 }
 
-footer .columns .column .contact-info:nth-child(3) i {
-	font-size: 1.4rem;
-	padding-right: 14px;
+footer .columns .column .contact-info:nth-child(3) svg {
+	padding-right: 16px;
+	padding-bottom: 16px;
+	height: 45px;
+}
+
+footer .columns .column .contact-info:nth-child(4) svg {
+	padding-right: 16px;
+	padding-bottom: 16px;
+	height: 45px;
+}
+
+footer .columns .column .contact-info svg path {
+	fill: var(--secondary-medium);
 }
 
 footer .columns .column .contact-info a {

@@ -2,18 +2,18 @@
     <div class="banner">
         <div class="left">
             <div class="info">
-                <i class="fa fa-users"></i> Family owned and operated
+                {% include "assets/icons/users-solid.njk" %} Family owned and operated
             </div>
             <div class="info">
-                <i class="fa fa-clock"></i> Available 24/7
+                {% include "assets/icons/clock-solid.njk" %} Available 24/7
             </div>
-             <div class="info">
-                <i class="fa fa-calendar-day"></i> Same day service
+            <div class="info">
+                {% include "assets/icons/calendar-day-solid.njk" %} Same day service
             </div>
         </div>
         <div class="right">
             <a class="email" href="mailto:info@thegreatconstruction.com">
-                <i class="fa fa-envelope"></i> info@thegreatconstruction.com
+                {% include "assets/icons/envelope-solid.njk" %} info@thegreatconstruction.com
             </a>
             {% include "components/social.njk" %}
         </div>
@@ -23,13 +23,13 @@
             {% img logos.main_logo, "header-logo", "Logo", "", [720] %}
         </a>
         {% include "components/nav.njk" %}
-        <a href="/contact" aria-label="Go to the contact section"><button class="gradient-btn"><i class="fa fa-arrow-right"></i> Free estimate</button></a>
+        <a href="/contact" aria-label="Go to the contact section"><button class="gradient-btn">{% include "assets/icons/arrow-right-solid.njk" %} Free estimate</button></a>
         {% include "components/mobilemenu.njk" %}
     </div>
     <div class="benefits">
         <div class="benefit">
             <div class="icon">
-                <i class="fa fa-id-badge"></i>
+                {% include "assets/icons/id-badge-solid.njk" %}
             </div>
             <div class="desc">
                 <div class="upper">Fully licensed</div>
@@ -38,7 +38,7 @@
         </div>
         <div class="benefit">
             <div class="icon">
-                <i class="fa fa-phone"></i>
+                {% include "assets/icons/phone-solid.njk" %}
             </div>
             <div class="desc">
                 <a class="upper" href="tel:+1 (201) 673-5638">+1 (201) 673-5638</a>
@@ -47,15 +47,15 @@
         </div>
         <div class="benefit">
             <div class="icon">
-                <i class="fa fa-credit-card"></i>
+                {% include "assets/icons/credit-card-regular.njk" %}
             </div>
             <div class="desc">
                 <div class="upper">We accept</div>
                 <div class="lower">
-                    <i class="fab fa-cc-visa"></i>
-                    <i class="fab fa-cc-mastercard"></i>
-                    <i class="fab fa-cc-amex"></i>
-                    <i class="fab fa-cc-paypal"></i>
+                    {% include "assets/icons/cc-visa-brands.njk" %}
+                    {% include "assets/icons/cc-mastercard-brands.njk" %}
+                    {% include "assets/icons/cc-amex-brands.njk" %}
+                    {% include "assets/icons/cc-paypal-brands.njk" %}
                 </div>
             </div>
         </div>

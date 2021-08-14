@@ -23,6 +23,7 @@
 	box-shadow: 0px 1px 8px rgba(0,0,0,0.2);
 }
 
-.gradient-btn i.fa{
+.gradient-btn svg{
 	margin-right: 16px;
+	height: 24px;
 }

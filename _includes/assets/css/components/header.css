@@ -15,12 +15,15 @@ header .banner .left {
 	text-transform: uppercase;
 }
 
-header .banner i{
+header .banner svg{
 	margin-right: 10px;
+	height: 24px;
 }
 
 header .banner .left .info{
 	margin-right: 24px;
+	display: flex;
+	align-items: center;
 }
 
 header .banner .right {
@@ -34,6 +37,8 @@ header .banner .right .email {
 	padding-right: 16px;
 	color: var(--background);
 	text-decoration: none;
+	display: flex;
+	align-items: center;
 }
 
 header .banner .right .social {
@@ -176,6 +181,10 @@ header .benefits .benefit .icon {
 	width: 20%;
 }
 
+header .benefits .benefit .icon svg {
+	height: 24px;
+}
+
 header .benefits .benefit .desc {
 	width: 56%;
 	display: flex;
@@ -192,8 +201,8 @@ header .benefits .benefit .desc .upper {
 	color: var(--primary);
 }
 
-header .benefits .benefit .desc .lower i{
-	font-size: 1.4rem;
+header .benefits .benefit .desc .lower svg{
+	height: 24px;
 	margin-right: 12px;
 }
 
