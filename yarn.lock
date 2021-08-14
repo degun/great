@@ -2007,14 +2007,6 @@ netlify-plugin-amp-optimizer-server-side-rendering@^0.0.2:
     "@ampproject/toolbox-optimizer" "^2.5.4"
     glob "^7.1.6"
 
-netlify-plugin-amp-server-side-rendering@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/netlify-plugin-amp-server-side-rendering/-/netlify-plugin-amp-server-side-rendering-1.0.3.tgz#1159fd2df2351570c96b60adcf3a744c487aaf9a"
-  integrity sha512-56cwJ6LWoTcs8cJeA5t1T4F8JUnC/FaDR7NNgxTNvh3tjYjV6icAB6PI8dnB4KAPjJnUhHWOrUE16Yevby2Dsg==
-  dependencies:
-    "@ampproject/toolbox-optimizer" "^2.5.4"
-    glob "^7.1.6"
-
 no-case@^2.2.0:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/no-case/-/no-case-2.3.2.tgz#60b813396be39b3f1288a4c1ed5d1e7d28b464ac"
