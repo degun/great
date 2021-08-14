@@ -52,8 +52,9 @@ content: "\f1f1"; }
 .fa-cc-paypal:before {
   content: "\f1f3"; }
 
-.fa-bars:before {
-  content: "\f0c9"; }
+  .fa-bars:before {
+    content: "\f0c9"; }
+
 
 @font-face {
   font-family: 'Font Awesome 5 Brands';
