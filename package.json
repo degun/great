@@ -34,6 +34,7 @@
     "eleventy-plugin-metagen": "^1.4.0",
     "html-minifier": "^4.0.0",
     "netlify-plugin-amp-optimizer-server-side-rendering": "^0.0.2",
+    "netlify-plugin-amp-server-side-rendering": "^1.0.3",
     "sharp": "^0.28.3",
     "uglify-es": "^3.3.9"
   }
