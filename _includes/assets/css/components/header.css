@@ -145,12 +145,16 @@ header .navigation a {
 	text-decoration: none;
 }
 
-header .navigation i.fas.fa-bars {
-	font-size: 2rem;
+header .navigation .button-and-bars{
+	display: flex;
+	align-items: center;
+}
+
+header .navigation .button-and-bars > svg {
+	height: 48px;
 	color: var(--primary);
 	display: none;
-	position: absolute;
-	right: 5%;
+	margin-left: 24px;
 }
 
 header .benefits {
@@ -258,7 +262,7 @@ header .benefits .benefit .desc .lower svg{
 		margin-right: 2.5rem;
 	}	
 
-	header .navigation i.fas.fa-bars {
+	header .navigation .button-and-bars svg {
 		display: inline-block;
 	}
 }
