@@ -55,11 +55,20 @@
 
 .servicelist .services .service .info a {
     padding: 0px;
-    width: 120px;
+    width: 250px;
     border-radius: 4px;
+    padding: 8px 15px;
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 1rem;
+    border-radius: 4px;
+    box-shadow: 0px 1px 6px rgba(0,0,0,0.2);
+    outline: 0;
+    border: 0;
+    width: 250px;
  }
 
-.servicelist .services .service .info a button {
+/* .servicelist .services .service .info a button {
    padding: 8px 15px;
    background-color: var(--primary);
    color: var(--secondary);
@@ -68,7 +77,8 @@
    box-shadow: 0px 1px 6px rgba(0,0,0,0.2);
    outline: 0;
    border: 0;
-}
+   width: 250px;
+} */
 
 .servicelist .services .service .info button:hover {
     cursor: pointer;

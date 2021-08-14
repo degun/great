@@ -107,11 +107,12 @@
     width: 50%;
 }
 
-.testimonials-contact .testimonials-section h6 {
+.testimonials-contact .testimonials-section .h6 {
    font-size: 1rem;
     font-weight: normal;
     margin-bottom: 0;
-    color: var(--secondary-medium);
+    color: var(--primary);
+    padding-top: 24px;
 }
 
 .testimonials-contact .testimonials-section h3 {
@@ -136,7 +137,7 @@
 }
 
 .testimonials-contact .contact-section p {
-    color: white;
+    color: var(--primary);
     width: 80%;
 }
 
@@ -145,9 +146,9 @@
     background-color: var(--secondary);
 }
 
-.towns h6 {
+.towns .h6 {
    font-size: 1rem;
-   color: var(--secondary-medium);
+   color: var(--primary);
    margin: 0;
    font-weight: normal;
 }
@@ -259,6 +260,10 @@
 
 
 @media (max-width: 700px){
+    .testimonials-contact .testimonials-section{
+        margin-top: 32px;
+    }
+
     .services {
         grid-template-columns: repeat(2, 1fr);
     }

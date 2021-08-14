@@ -44,7 +44,7 @@ header .banner .right .social {
 }
 
 header .banner .right .social a {
-	height: 80%;
+	height: 100%;
 	margin-left: 16px;
 	display: flex;
 	justify-content: center;
@@ -257,7 +257,8 @@ header .benefits .benefit .desc .lower i{
 @media (max-width: 760px){
 	header .banner .left .info {
 		white-space: nowrap;
-		font-size: 0.9rem;
+		font-size: 1.1rem;
+		padding: 3px 0;
 	}
 }
 
@@ -269,6 +270,7 @@ header .benefits .benefit .desc .lower i{
 	}
 	header .banner .left {
 		flex-wrap: wrap;
+		margin-bottom: 3px;
 	}
 
 	header .banner .right {
