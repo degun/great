@@ -194,7 +194,7 @@
 
 .discounts img{
    width: 100%;
-   aspect-ratio: 1.523/1;
+   aspect-ratio: 1.53/1 !important;
 }
 
 @media (max-width: 1260px){
